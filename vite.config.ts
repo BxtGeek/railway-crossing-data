@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 import { VitePWA } from 'vite-plugin-pwa'
 
 export default defineConfig({
-  base: '/railway-crossing/',
+  base: '/railway-crossing-data/',
   plugins: [
     react(),
     tailwindcss(),
