@@ -48,10 +48,20 @@ function Inner() {
           <>
             <StatusCard prediction={prediction} />
             <TrainList trains={prediction.approachingTrains} />
-            <div className="mx-4 mt-3 flex items-center gap-2 text-[11px] text-[#3A4F6A]"
+            <div className="mx-4 mt-3 flex items-center justify-between text-[11px] text-[#3A4F6A]"
               style={{ fontFamily: "'JetBrains Mono', monospace" }}>
-              <div className="w-1.5 h-1.5 rounded-full lamp-open" style={{ background: '#00C896' }} />
-              Live · refreshes every 10 min
+              <div className="flex items-center gap-2">
+                <div className="w-1.5 h-1.5 rounded-full lamp-open" style={{ background: '#00C896' }} />
+                Live · Refreshes every 10 min
+              </div>
+              <div>
+                Updated: {prediction.lastUpdated.toLocaleTimeString('en-IN', {
+                  timeZone: 'Asia/Kolkata',
+                  hour: '2-digit',
+                  minute: '2-digit',
+                  hour12: false
+                })} IST
+              </div>
             </div>
           </>
         )}

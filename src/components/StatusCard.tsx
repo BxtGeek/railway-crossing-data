@@ -85,9 +85,21 @@ export function StatusCard({ prediction }: Props) {
 
       {/* Data age warning */}
       {dataAgeSeconds > 300 && (
-        <div className="mt-3 text-[10px] text-[#F5A623] flex items-center gap-1.5">
-          <span>⚠</span>
-          <span>Data {Math.floor(dataAgeSeconds / 60)} min old — may be less accurate</span>
+        <div className="mt-3 text-[10px] text-[#F5A623] flex flex-col gap-1.5">
+          <div className="flex items-center gap-1.5">
+            <span>⚠</span>
+            <span>Data {Math.floor(dataAgeSeconds / 60)} min old — may be less accurate</span>
+          </div>
+          <div className="text-[#5E7090] pl-3.5">
+            Last updated: {prediction.lastUpdated.toLocaleString('en-IN', {
+              timeZone: 'Asia/Kolkata',
+              day: 'numeric',
+              month: 'short',
+              hour: '2-digit',
+              minute: '2-digit',
+              hour12: true
+            })} (IST)
+          </div>
         </div>
       )}
     </div>
