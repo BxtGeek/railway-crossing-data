@@ -1,6 +1,6 @@
-# Railway Crossing Predictor
+# Dental Road Crossing Status
 
-Live gate status and train predictions for Kadubeesanahalli Railway Crossing, Bengaluru.
+Live gate status and train predictions for Dental Road Railway Crossing, Bengaluru.
 
 ## Quick start
 

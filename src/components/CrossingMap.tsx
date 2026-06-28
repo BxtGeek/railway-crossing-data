@@ -66,7 +66,7 @@ export function CrossingMap({ prediction }: Props) {
           {/* Crossing */}
           <Marker position={[latitude, longitude]} icon={crossingIcon}>
             <Popup>
-              <b>Kadubeesanahalli Crossing</b>
+              <b>Dental Road Crossing Status</b>
               <br />
               Status: {prediction.state}
             </Popup>

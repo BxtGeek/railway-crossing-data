@@ -32,7 +32,7 @@ export function AppHeader({ state, onRefresh, isRefreshing }: Props) {
               style={{ background: color }}
             />
             <span className="text-[13px] font-medium text-[#5E7090] tracking-tight">
-              Kadubeesanahalli Crossing
+              Dental Road Crossing Status
             </span>
           </div>
           <div

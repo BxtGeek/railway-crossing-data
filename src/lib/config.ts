@@ -2,7 +2,7 @@ import type { CrossingConfig } from '../types'
 
 export const KADUBEESANAHALLI: CrossingConfig = {
   crossingId: 'kadubeesanahalli',
-  name: 'Kadubeesanahalli Railway Crossing',
+  name: 'Dental Road Crossing Status',
   latitude: 12.948297,
   longitude: 77.705787,
   stationA: { code: 'KJM', name: 'Krishnarajapuram' },

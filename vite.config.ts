@@ -12,9 +12,9 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico'],
       manifest: {
-        name: 'Railway Crossing Predictor',
+        name: 'Dental Road Crossing Status',
         short_name: 'Crossing',
-        description: 'Live gate status for Kadubeesanahalli railway crossing',
+        description: 'Live gate status for Dental Road railway crossing',
         theme_color: '#0A0F1E',
         background_color: '#0A0F1E',
         display: 'standalone',
