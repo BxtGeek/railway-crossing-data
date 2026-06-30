@@ -75,14 +75,6 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "16220",
-        "trainName": "Chamarajanagar Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "03:20",
-        "expectedDepartureTime": "03:20",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66538",
         "trainName": "SMVT Bengaluru - Bangarapet Junction Passenger",
         "status": "scheduled",
@@ -99,7 +91,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-06-30T22:00:16Z"
+    "fetchedAt": "2026-06-30T22:10:18Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -121,7 +113,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-06-30T22:00:16Z"
+    "fetchedAt": "2026-06-30T22:10:18Z"
   },
-  "generatedAt": "2026-06-30T22:00:16Z"
+  "generatedAt": "2026-06-30T22:10:18Z"
 }
