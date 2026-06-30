@@ -1,9 +1,7 @@
 name: Refresh crossing data
 
 on:
-  schedule:
-    - cron: '*/5 * * * *'
-  workflow_dispatch:
+  workflow_dispatch:   # triggered by Cloudflare Worker via GitHub API — no more unreliable cron
 
 permissions:
   contents: write
