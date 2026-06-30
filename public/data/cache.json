@@ -11,6 +11,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "16525",
+        "trainName": "KSR Bengaluru Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "06:12",
+        "expectedDepartureTime": "06:12",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "66519",
         "trainName": "Marikuppam - KSR Bengaluru MEMU",
         "status": "scheduled",
@@ -51,12 +59,12 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-06-30T20:30:18Z"
+    "fetchedAt": "2026-06-30T20:40:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
     "trains": [],
-    "fetchedAt": "2026-06-30T20:30:18Z"
+    "fetchedAt": "2026-06-30T20:40:17Z"
   },
-  "generatedAt": "2026-06-30T20:30:18Z"
+  "generatedAt": "2026-06-30T20:40:17Z"
 }
