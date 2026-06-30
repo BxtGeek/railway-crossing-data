@@ -59,14 +59,6 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "16021",
-        "trainName": "Kaveri Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "02:45",
-        "expectedDepartureTime": "02:45",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "16220",
         "trainName": "Chamarajanagar Express",
         "status": "scheduled",
@@ -89,9 +81,17 @@
         "scheduledDepartureTime": "04:36",
         "expectedDepartureTime": "04:36",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "16021",
+        "trainName": "Kaveri Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "02:45",
+        "expectedDepartureTime": "02:45",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-06-30T21:40:16Z"
+    "fetchedAt": "2026-06-30T21:50:16Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -113,7 +113,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-06-30T21:40:16Z"
+    "fetchedAt": "2026-06-30T21:50:16Z"
   },
-  "generatedAt": "2026-06-30T21:40:16Z"
+  "generatedAt": "2026-06-30T21:50:16Z"
 }
