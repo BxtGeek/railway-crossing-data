@@ -25,22 +25,14 @@
         "scheduledDepartureTime": "03:20",
         "expectedDepartureTime": "03:20",
         "delayMinutes": 0
-      },
-      {
-        "trainNo": "06545",
-        "trainName": "Vijayapura Special Fare Special",
-        "status": "scheduled",
-        "scheduledDepartureTime": "23:55",
-        "expectedDepartureTime": "23:55",
-        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-06-30T18:20:17Z"
+    "fetchedAt": "2026-06-30T18:30:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
     "trains": [],
-    "fetchedAt": "2026-06-30T18:20:17Z"
+    "fetchedAt": "2026-06-30T18:30:17Z"
   },
-  "generatedAt": "2026-06-30T18:20:17Z"
+  "generatedAt": "2026-06-30T18:30:17Z"
 }
