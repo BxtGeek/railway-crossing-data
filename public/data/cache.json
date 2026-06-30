@@ -121,9 +121,17 @@
         "scheduledDepartureTime": "07:55",
         "expectedDepartureTime": "07:55",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "66588",
+        "trainName": "Kolar - Bengaluru Cantt. MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "08:55",
+        "expectedDepartureTime": "08:55",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-06-30T23:20:19Z"
+    "fetchedAt": "2026-06-30T23:30:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -153,7 +161,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-06-30T23:20:19Z"
+    "fetchedAt": "2026-06-30T23:30:17Z"
   },
-  "generatedAt": "2026-06-30T23:20:19Z"
+  "generatedAt": "2026-06-30T23:30:17Z"
 }
