@@ -35,6 +35,22 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "66546",
+        "trainName": "KSR Bengaluru - Marikuppam MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "07:25",
+        "expectedDepartureTime": "07:25",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "04132",
+        "trainName": "SMVT Bengaluru - Kanpur Central Passenger",
+        "status": "scheduled",
+        "scheduledDepartureTime": "07:25",
+        "expectedDepartureTime": "07:25",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "16316",
         "trainName": "Mysuru Express",
         "status": "scheduled",
@@ -81,17 +97,9 @@
         "scheduledDepartureTime": "04:36",
         "expectedDepartureTime": "04:36",
         "delayMinutes": 0
-      },
-      {
-        "trainNo": "16021",
-        "trainName": "Kaveri Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "02:45",
-        "expectedDepartureTime": "02:45",
-        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-06-30T21:50:16Z"
+    "fetchedAt": "2026-06-30T22:00:16Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -113,7 +121,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-06-30T21:50:16Z"
+    "fetchedAt": "2026-06-30T22:00:16Z"
   },
-  "generatedAt": "2026-06-30T21:50:16Z"
+  "generatedAt": "2026-06-30T22:00:16Z"
 }
