@@ -129,9 +129,17 @@
         "scheduledDepartureTime": "13:54",
         "expectedDepartureTime": "13:54",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "22665",
+        "trainName": "Coimbatore Uday Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "14:35",
+        "expectedDepartureTime": "14:35",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-06-30T04:57:06Z"
+    "fetchedAt": "2026-06-30T05:08:42Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -145,7 +153,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-06-30T04:57:06Z"
+    "fetchedAt": "2026-06-30T05:08:42Z"
   },
-  "generatedAt": "2026-06-30T04:57:06Z"
+  "generatedAt": "2026-06-30T05:08:42Z"
 }
