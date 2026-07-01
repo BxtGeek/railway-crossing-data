@@ -3,19 +3,19 @@
     "stationCode": "KJM",
     "trains": [
       {
+        "trainNo": "22666",
+        "trainName": "KSR Bengaluru Uday Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "11:45",
+        "expectedDepartureTime": "11:45",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "17209",
         "trainName": "Seshadri Express",
         "status": "scheduled",
         "scheduledDepartureTime": "11:44",
         "expectedDepartureTime": "11:44",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "66544",
-        "trainName": "Banaswadi - Kuppam MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "11:51",
-        "expectedDepartureTime": "11:51",
         "delayMinutes": 0
       },
       {
@@ -131,7 +131,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T06:20:17Z"
+    "fetchedAt": "2026-07-01T06:30:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -151,9 +151,17 @@
         "scheduledDepartureTime": "15:43",
         "expectedDepartureTime": "15:43",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "66564",
+        "trainName": "Hosur - Yesvantpur MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "16:01",
+        "expectedDepartureTime": "16:01",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T06:20:17Z"
+    "fetchedAt": "2026-07-01T06:30:17Z"
   },
-  "generatedAt": "2026-07-01T06:20:17Z"
+  "generatedAt": "2026-07-01T06:30:17Z"
 }
