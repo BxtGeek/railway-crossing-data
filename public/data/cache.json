@@ -11,19 +11,19 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "12863",
-        "trainName": "SMVT Bengaluru SF Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "05:55",
-        "expectedDepartureTime": "05:55",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "16525",
         "trainName": "KSR Bengaluru Express",
         "status": "scheduled",
         "scheduledDepartureTime": "06:12",
         "expectedDepartureTime": "06:12",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "12863",
+        "trainName": "SMVT Bengaluru SF Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "05:55",
+        "expectedDepartureTime": "05:55",
         "delayMinutes": 0
       },
       {
@@ -59,19 +59,19 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "66555",
-        "trainName": "Marikuppam - KSR Bengaluru MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "07:51",
-        "expectedDepartureTime": "07:51",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "16316",
         "trainName": "Mysuru Express",
         "status": "scheduled",
         "scheduledDepartureTime": "07:12",
         "expectedDepartureTime": "07:12",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "66555",
+        "trainName": "Marikuppam - KSR Bengaluru MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "07:51",
+        "expectedDepartureTime": "07:51",
         "delayMinutes": 0
       },
       {
@@ -131,6 +131,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "66542",
+        "trainName": "KSR Bengaluru - Whitefield MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "09:45",
+        "expectedDepartureTime": "09:45",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "12510",
         "trainName": "SMVT Bengaluru SF Express",
         "status": "scheduled",
@@ -163,7 +171,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T00:10:16Z"
+    "fetchedAt": "2026-07-01T00:20:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -209,7 +217,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T00:10:16Z"
+    "fetchedAt": "2026-07-01T00:20:17Z"
   },
-  "generatedAt": "2026-07-01T00:10:16Z"
+  "generatedAt": "2026-07-01T00:20:17Z"
 }
