@@ -67,14 +67,6 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "17210",
-        "trainName": "Seshadri Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "11:10",
-        "expectedDepartureTime": "11:10",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66547",
         "trainName": "Marikuppam MEMU",
         "status": "scheduled",
@@ -83,11 +75,11 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "04132",
-        "trainName": "SMVT Bengaluru - Kanpur Central Passenger",
+        "trainNo": "17210",
+        "trainName": "Seshadri Express",
         "status": "scheduled",
-        "scheduledDepartureTime": "07:25",
-        "expectedDepartureTime": "07:25",
+        "scheduledDepartureTime": "11:10",
+        "expectedDepartureTime": "11:10",
         "delayMinutes": 0
       },
       {
@@ -161,9 +153,17 @@
         "scheduledDepartureTime": "11:44",
         "expectedDepartureTime": "11:44",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "66550",
+        "trainName": "KSR Bengaluru - Jolarpettai MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "09:10",
+        "expectedDepartureTime": "09:10",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T03:50:18Z"
+    "fetchedAt": "2026-07-01T04:00:16Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -185,7 +185,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T03:50:18Z"
+    "fetchedAt": "2026-07-01T04:00:16Z"
   },
-  "generatedAt": "2026-07-01T03:50:18Z"
+  "generatedAt": "2026-07-01T04:00:16Z"
 }
