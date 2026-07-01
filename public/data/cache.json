@@ -115,15 +115,31 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "66537",
+        "trainName": "Bangarapet Junction - SMVT Bengaluru Passenger",
+        "status": "scheduled",
+        "scheduledDepartureTime": "21:42",
+        "expectedDepartureTime": "21:42",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "16526",
         "trainName": "Kanniyakumari Express",
         "status": "scheduled",
         "scheduledDepartureTime": "20:36",
         "expectedDepartureTime": "20:36",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "66549",
+        "trainName": "Jolarpettai - KSR Bengaluru MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "17:35",
+        "expectedDepartureTime": "17:35",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T12:10:18Z"
+    "fetchedAt": "2026-07-01T12:20:20Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -153,7 +169,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T12:10:18Z"
+    "fetchedAt": "2026-07-01T12:20:20Z"
   },
-  "generatedAt": "2026-07-01T12:10:18Z"
+  "generatedAt": "2026-07-01T12:20:20Z"
 }
