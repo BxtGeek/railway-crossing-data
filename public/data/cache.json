@@ -99,19 +99,19 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "66548",
-        "trainName": "Krishnarajapuram MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "",
-        "expectedDepartureTime": "",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "17316",
         "trainName": "Vasco-Da-Gama Weekly Express",
         "status": "scheduled",
         "scheduledDepartureTime": "10:50",
         "expectedDepartureTime": "10:50",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "66548",
+        "trainName": "Krishnarajapuram MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "",
+        "expectedDepartureTime": "",
         "delayMinutes": 0
       },
       {
@@ -123,19 +123,19 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "17210",
-        "trainName": "Seshadri Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "11:10",
-        "expectedDepartureTime": "11:10",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "04132",
         "trainName": "SMVT Bengaluru - Kanpur Central Passenger",
         "status": "scheduled",
         "scheduledDepartureTime": "07:25",
         "expectedDepartureTime": "07:25",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "17210",
+        "trainName": "Seshadri Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "11:10",
+        "expectedDepartureTime": "11:10",
         "delayMinutes": 0
       },
       {
@@ -179,6 +179,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "20671",
+        "trainName": "Bengaluru Cantt. Vande Bharat Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "12:25",
+        "expectedDepartureTime": "12:25",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "12295",
         "trainName": "Sanghamitra SF Express",
         "status": "scheduled",
@@ -193,17 +201,9 @@
         "scheduledDepartureTime": "11:44",
         "expectedDepartureTime": "11:44",
         "delayMinutes": 0
-      },
-      {
-        "trainNo": "20663",
-        "trainName": "MGR Chennai Central Vande Bharat Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "08:06",
-        "expectedDepartureTime": "08:06",
-        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T02:50:17Z"
+    "fetchedAt": "2026-07-01T03:00:16Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -231,17 +231,9 @@
         "scheduledDepartureTime": "11:26",
         "expectedDepartureTime": "11:26",
         "delayMinutes": 0
-      },
-      {
-        "trainNo": "16529",
-        "trainName": "Karaikal Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "07:49",
-        "expectedDepartureTime": "07:49",
-        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T02:50:17Z"
+    "fetchedAt": "2026-07-01T03:00:16Z"
   },
-  "generatedAt": "2026-07-01T02:50:17Z"
+  "generatedAt": "2026-07-01T03:00:16Z"
 }
