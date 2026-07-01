@@ -3,27 +3,11 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "20671",
-        "trainName": "Bengaluru Cantt. Vande Bharat Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "12:25",
-        "expectedDepartureTime": "12:25",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66581",
         "trainName": "KSR Bengaluru - Bangarapet MEMU",
         "status": "scheduled",
         "scheduledDepartureTime": "12:10",
         "expectedDepartureTime": "12:10",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "22625",
-        "trainName": "KSR Bengaluru Double Decker Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "12:15",
-        "expectedDepartureTime": "12:15",
         "delayMinutes": 0
       },
       {
@@ -99,6 +83,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "66543",
+        "trainName": "Kuppam - KSR Bengaluru MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "16:23",
+        "expectedDepartureTime": "16:23",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "12296",
         "trainName": "Sanghamitra SF Express",
         "status": "scheduled",
@@ -121,17 +113,9 @@
         "scheduledDepartureTime": "16:12",
         "expectedDepartureTime": "16:12",
         "delayMinutes": 0
-      },
-      {
-        "trainNo": "17209",
-        "trainName": "Seshadri Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "11:44",
-        "expectedDepartureTime": "11:44",
-        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T06:50:16Z"
+    "fetchedAt": "2026-07-01T07:00:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -153,7 +137,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T06:50:16Z"
+    "fetchedAt": "2026-07-01T07:00:17Z"
   },
-  "generatedAt": "2026-07-01T06:50:16Z"
+  "generatedAt": "2026-07-01T07:00:17Z"
 }
