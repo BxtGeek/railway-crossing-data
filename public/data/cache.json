@@ -3,14 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "16219",
-        "trainName": "Tirupati Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "20:47",
-        "expectedDepartureTime": "20:47",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "15227",
         "trainName": "Muzaffarpur Express",
         "status": "scheduled",
@@ -27,27 +19,11 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "66520",
-        "trainName": "KSR Bengaluru - Marikuppam MEMU",
+        "trainNo": "12509",
+        "trainName": "Guwahati SF Express",
         "status": "scheduled",
-        "scheduledDepartureTime": "21:15",
-        "expectedDepartureTime": "21:15",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "12607",
-        "trainName": "Lalbagh SF Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "20:45",
-        "expectedDepartureTime": "20:45",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "20664",
-        "trainName": "Mysuru Vande Bharat Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "20:50",
-        "expectedDepartureTime": "20:50",
+        "scheduledDepartureTime": "23:55",
+        "expectedDepartureTime": "23:55",
         "delayMinutes": 0
       },
       {
@@ -59,11 +35,11 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "16521",
-        "trainName": "KSR Bengaluru MEMU Express",
+        "trainNo": "66520",
+        "trainName": "KSR Bengaluru - Marikuppam MEMU",
         "status": "scheduled",
-        "scheduledDepartureTime": "22:19",
-        "expectedDepartureTime": "22:19",
+        "scheduledDepartureTime": "21:15",
+        "expectedDepartureTime": "21:15",
         "delayMinutes": 0
       },
       {
@@ -75,11 +51,19 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "12509",
-        "trainName": "Guwahati SF Express",
+        "trainNo": "16521",
+        "trainName": "KSR Bengaluru MEMU Express",
         "status": "scheduled",
-        "scheduledDepartureTime": "23:55",
-        "expectedDepartureTime": "23:55",
+        "scheduledDepartureTime": "22:19",
+        "expectedDepartureTime": "22:19",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "16219",
+        "trainName": "Tirupati Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "20:47",
+        "expectedDepartureTime": "20:47",
         "delayMinutes": 0
       },
       {
@@ -97,22 +81,14 @@
         "scheduledDepartureTime": "19:37",
         "expectedDepartureTime": "19:37",
         "delayMinutes": 0
-      },
-      {
-        "trainNo": "07097",
-        "trainName": "Hyderabad Deccan Nampally - Mangaluru Central (Mangalore) Passenger",
-        "status": "scheduled",
-        "scheduledDepartureTime": "19:02",
-        "expectedDepartureTime": "19:02",
-        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T15:30:19Z"
+    "fetchedAt": "2026-07-01T15:40:05Z"
   },
   "blrr": {
     "stationCode": "BLRR",
     "trains": [],
-    "fetchedAt": "2026-07-01T15:30:19Z"
+    "fetchedAt": "2026-07-01T15:40:05Z"
   },
-  "generatedAt": "2026-07-01T15:30:19Z"
+  "generatedAt": "2026-07-01T15:40:05Z"
 }
