@@ -3,6 +3,14 @@
     "stationCode": "KJM",
     "trains": [
       {
+        "trainNo": "22665",
+        "trainName": "Coimbatore Uday Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "14:35",
+        "expectedDepartureTime": "14:35",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "22497",
         "trainName": "Tiruchchirappalli Humsafar Express",
         "status": "scheduled",
@@ -139,7 +147,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T09:10:19Z"
+    "fetchedAt": "2026-07-01T09:20:19Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -177,7 +185,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T09:10:19Z"
+    "fetchedAt": "2026-07-01T09:20:19Z"
   },
-  "generatedAt": "2026-07-01T09:10:19Z"
+  "generatedAt": "2026-07-01T09:20:19Z"
 }
