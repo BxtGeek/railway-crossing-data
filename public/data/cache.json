@@ -51,14 +51,6 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "07097",
-        "trainName": "Hyderabad Deccan Nampally - Mangaluru Central (Mangalore) Passenger",
-        "status": "scheduled",
-        "scheduledDepartureTime": "19:02",
-        "expectedDepartureTime": "19:02",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66533",
         "trainName": "Krishnarajapuram MEMU",
         "status": "scheduled",
@@ -67,11 +59,11 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "66534",
-        "trainName": "Kuppam MEMU",
+        "trainNo": "07097",
+        "trainName": "Hyderabad Deccan Nampally - Mangaluru Central (Mangalore) Passenger",
         "status": "scheduled",
-        "scheduledDepartureTime": "19:20",
-        "expectedDepartureTime": "19:20",
+        "scheduledDepartureTime": "19:02",
+        "expectedDepartureTime": "19:02",
         "delayMinutes": 0
       },
       {
@@ -80,6 +72,14 @@
         "status": "scheduled",
         "scheduledDepartureTime": "19:06",
         "expectedDepartureTime": "19:06",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "66534",
+        "trainName": "Kuppam MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "19:20",
+        "expectedDepartureTime": "19:20",
         "delayMinutes": 0
       },
       {
@@ -107,19 +107,19 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "20664",
-        "trainName": "Mysuru Vande Bharat Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "20:50",
-        "expectedDepartureTime": "20:50",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "16219",
         "trainName": "Tirupati Express",
         "status": "scheduled",
         "scheduledDepartureTime": "20:47",
         "expectedDepartureTime": "20:47",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "20664",
+        "trainName": "Mysuru Vande Bharat Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "20:50",
+        "expectedDepartureTime": "20:50",
         "delayMinutes": 0
       },
       {
@@ -137,17 +137,9 @@
         "scheduledDepartureTime": "20:36",
         "expectedDepartureTime": "20:36",
         "delayMinutes": 0
-      },
-      {
-        "trainNo": "16315",
-        "trainName": "Thiruvananthapuram North Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "17:00",
-        "expectedDepartureTime": "17:00",
-        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T11:50:19Z"
+    "fetchedAt": "2026-07-01T12:00:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -177,7 +169,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T11:50:19Z"
+    "fetchedAt": "2026-07-01T12:00:17Z"
   },
-  "generatedAt": "2026-07-01T11:50:19Z"
+  "generatedAt": "2026-07-01T12:00:17Z"
 }
