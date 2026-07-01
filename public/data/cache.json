@@ -3,14 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "22626",
-        "trainName": "MGR Chennai Central Double Decker Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "13:54",
-        "expectedDepartureTime": "13:54",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "22497",
         "trainName": "Tiruchchirappalli Humsafar Express",
         "status": "scheduled",
@@ -99,6 +91,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "66582",
+        "trainName": "Bangarapet - KSR Bengaluru MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "18:22",
+        "expectedDepartureTime": "18:22",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "22665",
         "trainName": "Coimbatore Uday Express",
         "status": "scheduled",
@@ -137,9 +137,17 @@
         "scheduledDepartureTime": "17:55",
         "expectedDepartureTime": "17:55",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "22626",
+        "trainName": "MGR Chennai Central Double Decker Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "13:54",
+        "expectedDepartureTime": "13:54",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T08:40:18Z"
+    "fetchedAt": "2026-07-01T08:50:18Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -161,6 +169,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "66586",
+        "trainName": "Hosur - Yesvantpur MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "18:19",
+        "expectedDepartureTime": "18:19",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "16211",
         "trainName": "Salem Express",
         "status": "scheduled",
@@ -169,7 +185,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T08:40:18Z"
+    "fetchedAt": "2026-07-01T08:50:18Z"
   },
-  "generatedAt": "2026-07-01T08:40:18Z"
+  "generatedAt": "2026-07-01T08:50:18Z"
 }
