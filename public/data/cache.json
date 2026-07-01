@@ -3,19 +3,11 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "22497",
-        "trainName": "Tiruchchirappalli Humsafar Express",
+        "trainNo": "12777",
+        "trainName": "Thiruvananthapuram North Weekly SF Express",
         "status": "scheduled",
-        "scheduledDepartureTime": "14:25",
-        "expectedDepartureTime": "14:25",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "12640",
-        "trainName": "Brindavan Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "15:40",
-        "expectedDepartureTime": "15:40",
+        "scheduledDepartureTime": "15:00",
+        "expectedDepartureTime": "15:00",
         "delayMinutes": 0
       },
       {
@@ -24,22 +16,6 @@
         "status": "scheduled",
         "scheduledDepartureTime": "15:30",
         "expectedDepartureTime": "15:30",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "66545",
-        "trainName": "Marikuppam - KSR Bengaluru MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "15:15",
-        "expectedDepartureTime": "15:15",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "12777",
-        "trainName": "Thiruvananthapuram North Weekly SF Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "15:00",
-        "expectedDepartureTime": "15:00",
         "delayMinutes": 0
       },
       {
@@ -177,9 +153,17 @@
         "scheduledDepartureTime": "17:55",
         "expectedDepartureTime": "17:55",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "22497",
+        "trainName": "Tiruchchirappalli Humsafar Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "14:25",
+        "expectedDepartureTime": "14:25",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T10:10:17Z"
+    "fetchedAt": "2026-07-01T10:20:18Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -233,7 +217,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T10:10:17Z"
+    "fetchedAt": "2026-07-01T10:20:18Z"
   },
-  "generatedAt": "2026-07-01T10:10:17Z"
+  "generatedAt": "2026-07-01T10:20:18Z"
 }
