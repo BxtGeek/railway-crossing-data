@@ -3,11 +3,11 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "22601",
-        "trainName": "Sainagar Shirdi SF Express",
+        "trainNo": "22497",
+        "trainName": "Tiruchchirappalli Humsafar Express",
         "status": "scheduled",
-        "scheduledDepartureTime": "15:30",
-        "expectedDepartureTime": "15:30",
+        "scheduledDepartureTime": "14:25",
+        "expectedDepartureTime": "14:25",
         "delayMinutes": 0
       },
       {
@@ -16,6 +16,14 @@
         "status": "scheduled",
         "scheduledDepartureTime": "15:40",
         "expectedDepartureTime": "15:40",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "22601",
+        "trainName": "Sainagar Shirdi SF Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "15:30",
+        "expectedDepartureTime": "15:30",
         "delayMinutes": 0
       },
       {
@@ -59,16 +67,16 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "66549",
-        "trainName": "Jolarpettai - KSR Bengaluru MEMU",
+        "trainNo": "66515",
+        "trainName": "Marikuppam MEMU",
         "status": "scheduled",
         "scheduledDepartureTime": "17:35",
         "expectedDepartureTime": "17:35",
         "delayMinutes": 0
       },
       {
-        "trainNo": "66515",
-        "trainName": "Marikuppam MEMU",
+        "trainNo": "66549",
+        "trainName": "Jolarpettai - KSR Bengaluru MEMU",
         "status": "scheduled",
         "scheduledDepartureTime": "17:35",
         "expectedDepartureTime": "17:35",
@@ -107,14 +115,6 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "66533",
-        "trainName": "Krishnarajapuram MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "",
-        "expectedDepartureTime": "",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "16551",
         "trainName": "Ashokapuram SF Express",
         "status": "scheduled",
@@ -123,11 +123,27 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "66533",
+        "trainName": "Krishnarajapuram MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "",
+        "expectedDepartureTime": "",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "66534",
         "trainName": "Kuppam MEMU",
         "status": "scheduled",
         "scheduledDepartureTime": "19:20",
         "expectedDepartureTime": "19:20",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "06547",
+        "trainName": "Thiruvananthapuram North Special Fare AC Special",
+        "status": "scheduled",
+        "scheduledDepartureTime": "19:37",
+        "expectedDepartureTime": "19:37",
         "delayMinutes": 0
       },
       {
@@ -163,7 +179,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T10:00:18Z"
+    "fetchedAt": "2026-07-01T10:10:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -217,7 +233,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T10:00:18Z"
+    "fetchedAt": "2026-07-01T10:10:17Z"
   },
-  "generatedAt": "2026-07-01T10:00:18Z"
+  "generatedAt": "2026-07-01T10:10:17Z"
 }
