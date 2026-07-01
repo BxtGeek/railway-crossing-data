@@ -91,19 +91,19 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "66550",
-        "trainName": "KSR Bengaluru - Jolarpettai MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "09:10",
-        "expectedDepartureTime": "09:10",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "15228",
         "trainName": "SMVT Bengaluru Express",
         "status": "scheduled",
         "scheduledDepartureTime": "08:40",
         "expectedDepartureTime": "08:40",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "66550",
+        "trainName": "KSR Bengaluru - Jolarpettai MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "09:10",
+        "expectedDepartureTime": "09:10",
         "delayMinutes": 0
       },
       {
@@ -171,7 +171,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T01:00:17Z"
+    "fetchedAt": "2026-07-01T01:10:16Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -217,7 +217,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T01:00:17Z"
+    "fetchedAt": "2026-07-01T01:10:16Z"
   },
-  "generatedAt": "2026-07-01T01:00:17Z"
+  "generatedAt": "2026-07-01T01:10:16Z"
 }
