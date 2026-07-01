@@ -19,19 +19,19 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "66545",
-        "trainName": "Marikuppam - KSR Bengaluru MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "15:15",
-        "expectedDepartureTime": "15:15",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "12777",
         "trainName": "Thiruvananthapuram North Weekly SF Express",
         "status": "scheduled",
         "scheduledDepartureTime": "15:00",
         "expectedDepartureTime": "15:00",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "66545",
+        "trainName": "Marikuppam - KSR Bengaluru MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "15:15",
+        "expectedDepartureTime": "15:15",
         "delayMinutes": 0
       },
       {
@@ -91,6 +91,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "66587",
+        "trainName": "Bengaluru Cantt. - Kolar MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "18:10",
+        "expectedDepartureTime": "18:10",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "22665",
         "trainName": "Coimbatore Uday Express",
         "status": "scheduled",
@@ -131,7 +139,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T08:30:17Z"
+    "fetchedAt": "2026-07-01T08:40:18Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -161,7 +169,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T08:30:17Z"
+    "fetchedAt": "2026-07-01T08:40:18Z"
   },
-  "generatedAt": "2026-07-01T08:30:17Z"
+  "generatedAt": "2026-07-01T08:40:18Z"
 }
