@@ -11,6 +11,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "12863",
+        "trainName": "SMVT Bengaluru SF Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "05:55",
+        "expectedDepartureTime": "05:55",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "16525",
         "trainName": "KSR Bengaluru Express",
         "status": "scheduled",
@@ -43,11 +51,19 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "12863",
-        "trainName": "SMVT Bengaluru SF Express",
+        "trainNo": "16519",
+        "trainName": "KSR Bengaluru MEMU Express",
         "status": "scheduled",
-        "scheduledDepartureTime": "05:55",
-        "expectedDepartureTime": "05:55",
+        "scheduledDepartureTime": "06:45",
+        "expectedDepartureTime": "06:45",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "12608",
+        "trainName": "Lalbagh SF Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "06:51",
+        "expectedDepartureTime": "06:51",
         "delayMinutes": 0
       },
       {
@@ -99,12 +115,21 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T21:10:16Z"
+    "fetchedAt": "2026-07-01T21:20:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
-    "trains": [],
-    "fetchedAt": "2026-07-01T21:10:16Z"
+    "trains": [
+      {
+        "trainNo": "66595",
+        "trainName": "Yesvantpur Junction - Hosur Passenger",
+        "status": "scheduled",
+        "scheduledDepartureTime": "06:50",
+        "expectedDepartureTime": "06:50",
+        "delayMinutes": 0
+      }
+    ],
+    "fetchedAt": "2026-07-01T21:20:17Z"
   },
-  "generatedAt": "2026-07-01T21:10:16Z"
+  "generatedAt": "2026-07-01T21:20:17Z"
 }
