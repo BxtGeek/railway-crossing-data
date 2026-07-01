@@ -3,22 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "22666",
-        "trainName": "KSR Bengaluru Uday Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "11:45",
-        "expectedDepartureTime": "11:45",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "17209",
-        "trainName": "Seshadri Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "11:44",
-        "expectedDepartureTime": "11:44",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66581",
         "trainName": "KSR Bengaluru - Bangarapet MEMU",
         "status": "scheduled",
@@ -129,21 +113,21 @@
         "scheduledDepartureTime": "14:35",
         "expectedDepartureTime": "14:35",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "08404",
+        "trainName": "Bhubaneswar Special Fare SF Special",
+        "status": "scheduled",
+        "scheduledDepartureTime": "16:12",
+        "expectedDepartureTime": "16:12",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T06:30:17Z"
+    "fetchedAt": "2026-07-01T06:40:16Z"
   },
   "blrr": {
     "stationCode": "BLRR",
     "trains": [
-      {
-        "trainNo": "66563",
-        "trainName": "Yesvantpur- Hosur MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "11:26",
-        "expectedDepartureTime": "11:26",
-        "delayMinutes": 0
-      },
       {
         "trainNo": "66585",
         "trainName": "Yesvantpur- Hosur MEMU",
@@ -161,7 +145,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T06:30:17Z"
+    "fetchedAt": "2026-07-01T06:40:16Z"
   },
-  "generatedAt": "2026-07-01T06:30:17Z"
+  "generatedAt": "2026-07-01T06:40:16Z"
 }
