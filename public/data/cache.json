@@ -27,11 +27,11 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "66538",
-        "trainName": "SMVT Bengaluru - Bangarapet Junction Passenger",
+        "trainNo": "12863",
+        "trainName": "SMVT Bengaluru SF Express",
         "status": "scheduled",
-        "scheduledDepartureTime": "04:22",
-        "expectedDepartureTime": "04:22",
+        "scheduledDepartureTime": "05:55",
+        "expectedDepartureTime": "05:55",
         "delayMinutes": 0
       },
       {
@@ -40,14 +40,6 @@
         "status": "scheduled",
         "scheduledDepartureTime": "05:49",
         "expectedDepartureTime": "05:49",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "12863",
-        "trainName": "SMVT Bengaluru SF Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "05:55",
-        "expectedDepartureTime": "05:55",
         "delayMinutes": 0
       },
       {
@@ -99,11 +91,11 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "12835",
-        "trainName": "SMVT Bengaluru SF Express",
+        "trainNo": "66529",
+        "trainName": "Kuppam - KSR Bengaluru MEMU",
         "status": "scheduled",
-        "scheduledDepartureTime": "02:27",
-        "expectedDepartureTime": "02:27",
+        "scheduledDepartureTime": "08:29",
+        "expectedDepartureTime": "08:29",
         "delayMinutes": 0
       },
       {
@@ -123,7 +115,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T22:50:19Z"
+    "fetchedAt": "2026-07-01T23:00:16Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -153,7 +145,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T22:50:19Z"
+    "fetchedAt": "2026-07-01T23:00:16Z"
   },
-  "generatedAt": "2026-07-01T22:50:19Z"
+  "generatedAt": "2026-07-01T23:00:16Z"
 }
