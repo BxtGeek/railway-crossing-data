@@ -35,19 +35,19 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "17316",
-        "trainName": "Vasco-Da-Gama Weekly Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "10:50",
-        "expectedDepartureTime": "10:50",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "12864",
         "trainName": "Howrah SF Express",
         "status": "scheduled",
         "scheduledDepartureTime": "10:55",
         "expectedDepartureTime": "10:55",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "17316",
+        "trainName": "Vasco-Da-Gama Weekly Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "10:50",
+        "expectedDepartureTime": "10:50",
         "delayMinutes": 0
       },
       {
@@ -147,6 +147,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "22626",
+        "trainName": "MGR Chennai Central Double Decker Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "13:54",
+        "expectedDepartureTime": "13:54",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "17209",
         "trainName": "Seshadri Express",
         "status": "scheduled",
@@ -155,7 +163,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T04:20:16Z"
+    "fetchedAt": "2026-07-01T04:30:16Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -175,9 +183,17 @@
         "scheduledDepartureTime": "11:26",
         "expectedDepartureTime": "11:26",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "66596",
+        "trainName": "Hosur - Yesvantpur Junction Passenger",
+        "status": "scheduled",
+        "scheduledDepartureTime": "09:04",
+        "expectedDepartureTime": "09:04",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T04:20:16Z"
+    "fetchedAt": "2026-07-01T04:30:16Z"
   },
-  "generatedAt": "2026-07-01T04:20:16Z"
+  "generatedAt": "2026-07-01T04:30:16Z"
 }
