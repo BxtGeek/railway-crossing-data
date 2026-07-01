@@ -3,14 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "22681",
-        "trainName": "MGR Chennai Central Weekly SF Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "23:25",
-        "expectedDepartureTime": "23:25",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "15227",
         "trainName": "Muzaffarpur Express",
         "status": "scheduled",
@@ -51,6 +43,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "22681",
+        "trainName": "MGR Chennai Central Weekly SF Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "23:25",
+        "expectedDepartureTime": "23:25",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "16219",
         "trainName": "Tirupati Express",
         "status": "scheduled",
@@ -67,12 +67,12 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T16:40:17Z"
+    "fetchedAt": "2026-07-01T16:50:18Z"
   },
   "blrr": {
     "stationCode": "BLRR",
     "trains": [],
-    "fetchedAt": "2026-07-01T16:40:17Z"
+    "fetchedAt": "2026-07-01T16:50:18Z"
   },
-  "generatedAt": "2026-07-01T16:40:17Z"
+  "generatedAt": "2026-07-01T16:50:18Z"
 }
