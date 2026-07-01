@@ -3,11 +3,11 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "16523",
-        "trainName": "SMVT Bengaluru - Balurghat Passenger",
+        "trainNo": "12864",
+        "trainName": "Howrah SF Express",
         "status": "scheduled",
-        "scheduledDepartureTime": "10:30",
-        "expectedDepartureTime": "10:30",
+        "scheduledDepartureTime": "10:55",
+        "expectedDepartureTime": "10:55",
         "delayMinutes": 0
       },
       {
@@ -19,19 +19,11 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "66541",
-        "trainName": "Whitefield - KSR Bengaluru MEMU",
+        "trainNo": "66548",
+        "trainName": "Krishnarajapuram MEMU",
         "status": "scheduled",
-        "scheduledDepartureTime": "10:44",
-        "expectedDepartureTime": "10:44",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "12864",
-        "trainName": "Howrah SF Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "10:55",
-        "expectedDepartureTime": "10:55",
+        "scheduledDepartureTime": "",
+        "expectedDepartureTime": "",
         "delayMinutes": 0
       },
       {
@@ -40,14 +32,6 @@
         "status": "scheduled",
         "scheduledDepartureTime": "10:50",
         "expectedDepartureTime": "10:50",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "66548",
-        "trainName": "Krishnarajapuram MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "",
-        "expectedDepartureTime": "",
         "delayMinutes": 0
       },
       {
@@ -169,9 +153,17 @@
         "scheduledDepartureTime": "14:35",
         "expectedDepartureTime": "14:35",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "16523",
+        "trainName": "SMVT Bengaluru - Balurghat Passenger",
+        "status": "scheduled",
+        "scheduledDepartureTime": "10:30",
+        "expectedDepartureTime": "10:30",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T05:10:17Z"
+    "fetchedAt": "2026-07-01T05:20:18Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -185,7 +177,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T05:10:17Z"
+    "fetchedAt": "2026-07-01T05:20:18Z"
   },
-  "generatedAt": "2026-07-01T05:10:17Z"
+  "generatedAt": "2026-07-01T05:20:18Z"
 }
