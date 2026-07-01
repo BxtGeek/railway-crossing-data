@@ -11,11 +11,11 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "16598",
-        "trainName": "SMVT Bengaluru Amrit Bharat Express",
+        "trainNo": "22681",
+        "trainName": "MGR Chennai Central Weekly SF Express",
         "status": "scheduled",
-        "scheduledDepartureTime": "01:52",
-        "expectedDepartureTime": "01:52",
+        "scheduledDepartureTime": "23:25",
+        "expectedDepartureTime": "23:25",
         "delayMinutes": 0
       },
       {
@@ -51,36 +51,20 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "22681",
-        "trainName": "MGR Chennai Central Weekly SF Express",
+        "trainNo": "16598",
+        "trainName": "SMVT Bengaluru Amrit Bharat Express",
         "status": "scheduled",
-        "scheduledDepartureTime": "23:25",
-        "expectedDepartureTime": "23:25",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "16219",
-        "trainName": "Tirupati Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "20:47",
-        "expectedDepartureTime": "20:47",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "16526",
-        "trainName": "Kanniyakumari Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "20:36",
-        "expectedDepartureTime": "20:36",
+        "scheduledDepartureTime": "01:52",
+        "expectedDepartureTime": "01:52",
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T17:00:17Z"
+    "fetchedAt": "2026-07-01T17:10:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
     "trains": [],
-    "fetchedAt": "2026-07-01T17:00:17Z"
+    "fetchedAt": "2026-07-01T17:10:17Z"
   },
-  "generatedAt": "2026-07-01T17:00:17Z"
+  "generatedAt": "2026-07-01T17:10:17Z"
 }
