@@ -3,32 +3,16 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "16315",
-        "trainName": "Thiruvananthapuram North Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "17:00",
-        "expectedDepartureTime": "17:00",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "66514",
-        "trainName": "Krishnarajapuram MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "",
-        "expectedDepartureTime": "",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "66515",
-        "trainName": "Marikuppam MEMU",
+        "trainNo": "66549",
+        "trainName": "Jolarpettai - KSR Bengaluru MEMU",
         "status": "scheduled",
         "scheduledDepartureTime": "17:35",
         "expectedDepartureTime": "17:35",
         "delayMinutes": 0
       },
       {
-        "trainNo": "66549",
-        "trainName": "Jolarpettai - KSR Bengaluru MEMU",
+        "trainNo": "66515",
+        "trainName": "Marikuppam MEMU",
         "status": "scheduled",
         "scheduledDepartureTime": "17:35",
         "expectedDepartureTime": "17:35",
@@ -91,19 +75,19 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "06547",
-        "trainName": "Thiruvananthapuram North Special Fare AC Special",
-        "status": "scheduled",
-        "scheduledDepartureTime": "19:37",
-        "expectedDepartureTime": "19:37",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "16551",
         "trainName": "Ashokapuram SF Express",
         "status": "scheduled",
         "scheduledDepartureTime": "19:06",
         "expectedDepartureTime": "19:06",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "06547",
+        "trainName": "Thiruvananthapuram North Special Fare AC Special",
+        "status": "scheduled",
+        "scheduledDepartureTime": "19:37",
+        "expectedDepartureTime": "19:37",
         "delayMinutes": 0
       },
       {
@@ -131,6 +115,22 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "16219",
+        "trainName": "Tirupati Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "20:47",
+        "expectedDepartureTime": "20:47",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "66520",
+        "trainName": "KSR Bengaluru - Marikuppam MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "21:15",
+        "expectedDepartureTime": "21:15",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "16526",
         "trainName": "Kanniyakumari Express",
         "status": "scheduled",
@@ -139,15 +139,15 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "16219",
-        "trainName": "Tirupati Express",
+        "trainNo": "16315",
+        "trainName": "Thiruvananthapuram North Express",
         "status": "scheduled",
-        "scheduledDepartureTime": "20:47",
-        "expectedDepartureTime": "20:47",
+        "scheduledDepartureTime": "17:00",
+        "expectedDepartureTime": "17:00",
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T11:40:16Z"
+    "fetchedAt": "2026-07-01T11:50:19Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -175,17 +175,9 @@
         "scheduledDepartureTime": "19:00",
         "expectedDepartureTime": "19:00",
         "delayMinutes": 0
-      },
-      {
-        "trainNo": "16211",
-        "trainName": "Salem Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "16:36",
-        "expectedDepartureTime": "16:36",
-        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T11:40:16Z"
+    "fetchedAt": "2026-07-01T11:50:19Z"
   },
-  "generatedAt": "2026-07-01T11:40:16Z"
+  "generatedAt": "2026-07-01T11:50:19Z"
 }
