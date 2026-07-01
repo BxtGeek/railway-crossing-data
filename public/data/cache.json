@@ -3,14 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "16520",
-        "trainName": "Jolarpettai MEMU Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "17:55",
-        "expectedDepartureTime": "17:55",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66587",
         "trainName": "Bengaluru Cantt. - Kolar MEMU",
         "status": "scheduled",
@@ -27,6 +19,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "66549",
+        "trainName": "Jolarpettai - KSR Bengaluru MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "17:35",
+        "expectedDepartureTime": "17:35",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "66556",
         "trainName": "KSR Bengaluru - Marikuppam MEMU",
         "status": "scheduled",
@@ -40,14 +40,6 @@
         "status": "scheduled",
         "scheduledDepartureTime": "",
         "expectedDepartureTime": "",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "07097",
-        "trainName": "Hyderabad Deccan Nampally - Mangaluru Central (Mangalore) Passenger",
-        "status": "scheduled",
-        "scheduledDepartureTime": "19:02",
-        "expectedDepartureTime": "19:02",
         "delayMinutes": 0
       },
       {
@@ -123,23 +115,23 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "07097",
+        "trainName": "Hyderabad Deccan Nampally - Mangaluru Central (Mangalore) Passenger",
+        "status": "scheduled",
+        "scheduledDepartureTime": "19:02",
+        "expectedDepartureTime": "19:02",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "16526",
         "trainName": "Kanniyakumari Express",
         "status": "scheduled",
         "scheduledDepartureTime": "20:36",
         "expectedDepartureTime": "20:36",
         "delayMinutes": 0
-      },
-      {
-        "trainNo": "66549",
-        "trainName": "Jolarpettai - KSR Bengaluru MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "17:35",
-        "expectedDepartureTime": "17:35",
-        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T12:20:20Z"
+    "fetchedAt": "2026-07-01T12:30:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -169,7 +161,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T12:20:20Z"
+    "fetchedAt": "2026-07-01T12:30:17Z"
   },
-  "generatedAt": "2026-07-01T12:20:20Z"
+  "generatedAt": "2026-07-01T12:30:17Z"
 }
