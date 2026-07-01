@@ -3,6 +3,14 @@
     "stationCode": "KJM",
     "trains": [
       {
+        "trainNo": "66519",
+        "trainName": "Marikuppam - KSR Bengaluru MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "05:49",
+        "expectedDepartureTime": "05:49",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "16525",
         "trainName": "KSR Bengaluru Express",
         "status": "scheduled",
@@ -40,14 +48,6 @@
         "status": "scheduled",
         "scheduledDepartureTime": "08:20",
         "expectedDepartureTime": "08:20",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "66519",
-        "trainName": "Marikuppam - KSR Bengaluru MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "05:49",
-        "expectedDepartureTime": "05:49",
         "delayMinutes": 0
       },
       {
@@ -99,11 +99,11 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "16220",
-        "trainName": "Chamarajanagar Express",
+        "trainNo": "66588",
+        "trainName": "Kolar - Bengaluru Cantt. MEMU",
         "status": "scheduled",
-        "scheduledDepartureTime": "03:20",
-        "expectedDepartureTime": "03:20",
+        "scheduledDepartureTime": "08:55",
+        "expectedDepartureTime": "08:55",
         "delayMinutes": 0
       },
       {
@@ -115,7 +115,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T23:20:16Z"
+    "fetchedAt": "2026-07-01T23:30:18Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -145,7 +145,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T23:20:16Z"
+    "fetchedAt": "2026-07-01T23:30:18Z"
   },
-  "generatedAt": "2026-07-01T23:20:16Z"
+  "generatedAt": "2026-07-01T23:30:18Z"
 }
