@@ -3,27 +3,11 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "16598",
-        "trainName": "SMVT Bengaluru Amrit Bharat Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "01:52",
-        "expectedDepartureTime": "01:52",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66538",
         "trainName": "SMVT Bengaluru - Bangarapet Junction Passenger",
         "status": "scheduled",
         "scheduledDepartureTime": "04:22",
         "expectedDepartureTime": "04:22",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "16022",
-        "trainName": "Kaveri Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "00:15",
-        "expectedDepartureTime": "00:15",
         "delayMinutes": 0
       },
       {
@@ -73,14 +57,22 @@
         "scheduledDepartureTime": "04:36",
         "expectedDepartureTime": "04:36",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "16598",
+        "trainName": "SMVT Bengaluru Amrit Bharat Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "01:52",
+        "expectedDepartureTime": "01:52",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T19:10:16Z"
+    "fetchedAt": "2026-07-01T19:20:18Z"
   },
   "blrr": {
     "stationCode": "BLRR",
     "trains": [],
-    "fetchedAt": "2026-07-01T19:10:16Z"
+    "fetchedAt": "2026-07-01T19:20:18Z"
   },
-  "generatedAt": "2026-07-01T19:10:16Z"
+  "generatedAt": "2026-07-01T19:20:18Z"
 }
