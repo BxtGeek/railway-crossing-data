@@ -35,11 +35,11 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "12863",
-        "trainName": "SMVT Bengaluru SF Express",
+        "trainNo": "16552",
+        "trainName": "MGR Chennai Central SF Express",
         "status": "scheduled",
-        "scheduledDepartureTime": "05:55",
-        "expectedDepartureTime": "05:55",
+        "scheduledDepartureTime": "08:20",
+        "expectedDepartureTime": "08:20",
         "delayMinutes": 0
       },
       {
@@ -48,6 +48,14 @@
         "status": "scheduled",
         "scheduledDepartureTime": "05:49",
         "expectedDepartureTime": "05:49",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "12863",
+        "trainName": "SMVT Bengaluru SF Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "05:55",
+        "expectedDepartureTime": "05:55",
         "delayMinutes": 0
       },
       {
@@ -83,14 +91,6 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "16552",
-        "trainName": "MGR Chennai Central SF Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "08:20",
-        "expectedDepartureTime": "08:20",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66529",
         "trainName": "Kuppam - KSR Bengaluru MEMU",
         "status": "scheduled",
@@ -99,11 +99,11 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "11006",
-        "trainName": "Dadar PDY-DR CHALUKYA EXP",
+        "trainNo": "16220",
+        "trainName": "Chamarajanagar Express",
         "status": "scheduled",
-        "scheduledDepartureTime": "04:36",
-        "expectedDepartureTime": "04:36",
+        "scheduledDepartureTime": "03:20",
+        "expectedDepartureTime": "03:20",
         "delayMinutes": 0
       },
       {
@@ -115,7 +115,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T23:10:16Z"
+    "fetchedAt": "2026-07-01T23:20:16Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -145,7 +145,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T23:10:16Z"
+    "fetchedAt": "2026-07-01T23:20:16Z"
   },
-  "generatedAt": "2026-07-01T23:10:16Z"
+  "generatedAt": "2026-07-01T23:20:16Z"
 }
