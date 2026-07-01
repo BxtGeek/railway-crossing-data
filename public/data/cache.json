@@ -19,6 +19,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "12863",
+        "trainName": "SMVT Bengaluru SF Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "05:55",
+        "expectedDepartureTime": "05:55",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "16519",
         "trainName": "KSR Bengaluru MEMU Express",
         "status": "scheduled",
@@ -51,11 +59,11 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "12863",
+        "trainNo": "12510",
         "trainName": "SMVT Bengaluru SF Express",
         "status": "scheduled",
-        "scheduledDepartureTime": "05:55",
-        "expectedDepartureTime": "05:55",
+        "scheduledDepartureTime": "09:04",
+        "expectedDepartureTime": "09:04",
         "delayMinutes": 0
       },
       {
@@ -107,6 +115,22 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "12836",
+        "trainName": "Hatia SF Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "09:05",
+        "expectedDepartureTime": "09:05",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "66550",
+        "trainName": "KSR Bengaluru - Jolarpettai MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "09:10",
+        "expectedDepartureTime": "09:10",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "26651",
         "trainName": "Ernakulam Jn. Vande Bharat Express",
         "status": "scheduled",
@@ -115,7 +139,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T23:30:18Z"
+    "fetchedAt": "2026-07-01T23:40:16Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -143,9 +167,25 @@
         "scheduledDepartureTime": "07:07",
         "expectedDepartureTime": "07:07",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "66596",
+        "trainName": "Hosur - Yesvantpur Junction Passenger",
+        "status": "scheduled",
+        "scheduledDepartureTime": "09:04",
+        "expectedDepartureTime": "09:04",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "16212",
+        "trainName": "Yesvantpur Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "09:08",
+        "expectedDepartureTime": "09:08",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T23:30:18Z"
+    "fetchedAt": "2026-07-01T23:40:16Z"
   },
-  "generatedAt": "2026-07-01T23:30:18Z"
+  "generatedAt": "2026-07-01T23:40:16Z"
 }
