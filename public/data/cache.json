@@ -3,14 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "66556",
-        "trainName": "KSR Bengaluru - Marikuppam MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "18:40",
-        "expectedDepartureTime": "18:40",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66533",
         "trainName": "Krishnarajapuram MEMU",
         "status": "scheduled",
@@ -115,14 +107,6 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "16315",
-        "trainName": "Thiruvananthapuram North Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "17:00",
-        "expectedDepartureTime": "17:00",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66582",
         "trainName": "Bangarapet - KSR Bengaluru MEMU",
         "status": "scheduled",
@@ -131,7 +115,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T13:20:17Z"
+    "fetchedAt": "2026-07-01T13:30:18Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -153,7 +137,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T13:20:17Z"
+    "fetchedAt": "2026-07-01T13:30:18Z"
   },
-  "generatedAt": "2026-07-01T13:20:17Z"
+  "generatedAt": "2026-07-01T13:30:18Z"
 }
