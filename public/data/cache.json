@@ -3,14 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "66542",
-        "trainName": "KSR Bengaluru - Whitefield MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "09:45",
-        "expectedDepartureTime": "09:45",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66530",
         "trainName": "Bangarapet Junction SBC-BWT MEMU",
         "status": "scheduled",
@@ -43,19 +35,19 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "12864",
-        "trainName": "Howrah SF Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "10:55",
-        "expectedDepartureTime": "10:55",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "17316",
         "trainName": "Vasco-Da-Gama Weekly Express",
         "status": "scheduled",
         "scheduledDepartureTime": "10:50",
         "expectedDepartureTime": "10:50",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "12864",
+        "trainName": "Howrah SF Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "10:55",
+        "expectedDepartureTime": "10:55",
         "delayMinutes": 0
       },
       {
@@ -67,16 +59,16 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "17210",
-        "trainName": "Seshadri Express",
+        "trainNo": "66547",
+        "trainName": "Marikuppam MEMU",
         "status": "scheduled",
         "scheduledDepartureTime": "11:10",
         "expectedDepartureTime": "11:10",
         "delayMinutes": 0
       },
       {
-        "trainNo": "66547",
-        "trainName": "Marikuppam MEMU",
+        "trainNo": "17210",
+        "trainName": "Seshadri Express",
         "status": "scheduled",
         "scheduledDepartureTime": "11:10",
         "expectedDepartureTime": "11:10",
@@ -147,6 +139,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "20672",
+        "trainName": "Madurai Vande Bharat Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "13:44",
+        "expectedDepartureTime": "13:44",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "17209",
         "trainName": "Seshadri Express",
         "status": "scheduled",
@@ -155,19 +155,11 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T04:10:17Z"
+    "fetchedAt": "2026-07-01T04:20:16Z"
   },
   "blrr": {
     "stationCode": "BLRR",
     "trains": [
-      {
-        "trainNo": "66596",
-        "trainName": "Hosur - Yesvantpur Junction Passenger",
-        "status": "scheduled",
-        "scheduledDepartureTime": "09:04",
-        "expectedDepartureTime": "09:04",
-        "delayMinutes": 0
-      },
       {
         "trainNo": "16212",
         "trainName": "Yesvantpur Express",
@@ -185,7 +177,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T04:10:17Z"
+    "fetchedAt": "2026-07-01T04:20:16Z"
   },
-  "generatedAt": "2026-07-01T04:10:17Z"
+  "generatedAt": "2026-07-01T04:20:16Z"
 }
