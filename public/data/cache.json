@@ -3,14 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "12639",
-        "trainName": "Brindavan Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "12:50",
-        "expectedDepartureTime": "12:50",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "20672",
         "trainName": "Madurai Vande Bharat Express",
         "status": "scheduled",
@@ -123,7 +115,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T07:40:19Z"
+    "fetchedAt": "2026-07-01T07:50:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -153,7 +145,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T07:40:19Z"
+    "fetchedAt": "2026-07-01T07:50:17Z"
   },
-  "generatedAt": "2026-07-01T07:40:19Z"
+  "generatedAt": "2026-07-01T07:50:17Z"
 }
