@@ -147,7 +147,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T11:30:21Z"
+    "fetchedAt": "2026-07-01T11:40:16Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -175,9 +175,17 @@
         "scheduledDepartureTime": "19:00",
         "expectedDepartureTime": "19:00",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "16211",
+        "trainName": "Salem Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "16:36",
+        "expectedDepartureTime": "16:36",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T11:30:21Z"
+    "fetchedAt": "2026-07-01T11:40:16Z"
   },
-  "generatedAt": "2026-07-01T11:30:21Z"
+  "generatedAt": "2026-07-01T11:40:16Z"
 }
