@@ -27,14 +27,6 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "20664",
-        "trainName": "Mysuru Vande Bharat Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "20:50",
-        "expectedDepartureTime": "20:50",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "16219",
         "trainName": "Tirupati Express",
         "status": "scheduled",
@@ -48,6 +40,14 @@
         "status": "scheduled",
         "scheduledDepartureTime": "20:45",
         "expectedDepartureTime": "20:45",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "20664",
+        "trainName": "Mysuru Vande Bharat Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "20:50",
+        "expectedDepartureTime": "20:50",
         "delayMinutes": 0
       },
       {
@@ -67,14 +67,6 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "07097",
-        "trainName": "Hyderabad Deccan Nampally - Mangaluru Central (Mangalore) Passenger",
-        "status": "scheduled",
-        "scheduledDepartureTime": "19:02",
-        "expectedDepartureTime": "19:02",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66520",
         "trainName": "KSR Bengaluru - Marikuppam MEMU",
         "status": "scheduled",
@@ -91,6 +83,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "07097",
+        "trainName": "Hyderabad Deccan Nampally - Mangaluru Central (Mangalore) Passenger",
+        "status": "scheduled",
+        "scheduledDepartureTime": "19:02",
+        "expectedDepartureTime": "19:02",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "22681",
         "trainName": "MGR Chennai Central Weekly SF Express",
         "status": "scheduled",
@@ -99,12 +99,12 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T14:00:20Z"
+    "fetchedAt": "2026-07-01T14:10:20Z"
   },
   "blrr": {
     "stationCode": "BLRR",
     "trains": [],
-    "fetchedAt": "2026-07-01T14:00:20Z"
+    "fetchedAt": "2026-07-01T14:10:20Z"
   },
-  "generatedAt": "2026-07-01T14:00:20Z"
+  "generatedAt": "2026-07-01T14:10:20Z"
 }
