@@ -27,19 +27,19 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "12608",
-        "trainName": "Lalbagh SF Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "06:51",
-        "expectedDepartureTime": "06:51",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "16519",
         "trainName": "KSR Bengaluru MEMU Express",
         "status": "scheduled",
         "scheduledDepartureTime": "06:45",
         "expectedDepartureTime": "06:45",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "12608",
+        "trainName": "Lalbagh SF Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "06:51",
+        "expectedDepartureTime": "06:51",
         "delayMinutes": 0
       },
       {
@@ -163,7 +163,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T00:00:18Z"
+    "fetchedAt": "2026-07-01T00:10:16Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -209,7 +209,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T00:00:18Z"
+    "fetchedAt": "2026-07-01T00:10:16Z"
   },
-  "generatedAt": "2026-07-01T00:00:18Z"
+  "generatedAt": "2026-07-01T00:10:16Z"
 }
