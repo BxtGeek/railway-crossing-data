@@ -3,14 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "16598",
-        "trainName": "SMVT Bengaluru Amrit Bharat Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "01:52",
-        "expectedDepartureTime": "01:52",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "16525",
         "trainName": "KSR Bengaluru Express",
         "status": "scheduled",
@@ -91,6 +83,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "66555",
+        "trainName": "Marikuppam - KSR Bengaluru MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "07:51",
+        "expectedDepartureTime": "07:51",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "12683",
         "trainName": "SMVT Bengaluru SF Express",
         "status": "scheduled",
@@ -123,6 +123,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "16598",
+        "trainName": "SMVT Bengaluru Amrit Bharat Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "01:52",
+        "expectedDepartureTime": "01:52",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "26651",
         "trainName": "Ernakulam Jn. Vande Bharat Express",
         "status": "scheduled",
@@ -131,7 +139,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T22:10:17Z"
+    "fetchedAt": "2026-07-01T22:20:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -145,6 +153,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "16529",
+        "trainName": "Karaikal Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "07:49",
+        "expectedDepartureTime": "07:49",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "66584",
         "trainName": "Dharmapuri - KSR Bengaluru MEMU",
         "status": "scheduled",
@@ -153,7 +169,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T22:10:17Z"
+    "fetchedAt": "2026-07-01T22:20:17Z"
   },
-  "generatedAt": "2026-07-01T22:10:17Z"
+  "generatedAt": "2026-07-01T22:20:17Z"
 }
