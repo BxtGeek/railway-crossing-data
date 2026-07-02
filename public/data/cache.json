@@ -3,11 +3,11 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "66542",
-        "trainName": "KSR Bengaluru - Whitefield MEMU",
+        "trainNo": "66530",
+        "trainName": "Bangarapet Junction SBC-BWT MEMU",
         "status": "scheduled",
-        "scheduledDepartureTime": "09:45",
-        "expectedDepartureTime": "09:45",
+        "scheduledDepartureTime": "10:05",
+        "expectedDepartureTime": "10:05",
         "delayMinutes": 0
       },
       {
@@ -91,11 +91,11 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "66530",
-        "trainName": "Bangarapet Junction SBC-BWT MEMU",
+        "trainNo": "20672",
+        "trainName": "Madurai Vande Bharat Express",
         "status": "scheduled",
-        "scheduledDepartureTime": "10:05",
-        "expectedDepartureTime": "10:05",
+        "scheduledDepartureTime": "13:44",
+        "expectedDepartureTime": "13:44",
         "delayMinutes": 0
       },
       {
@@ -153,9 +153,17 @@
         "scheduledDepartureTime": "12:50",
         "expectedDepartureTime": "12:50",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "66550",
+        "trainName": "KSR Bengaluru - Jolarpettai MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "09:10",
+        "expectedDepartureTime": "09:10",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T04:10:17Z"
+    "fetchedAt": "2026-07-02T04:20:18Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -177,7 +185,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T04:10:17Z"
+    "fetchedAt": "2026-07-02T04:20:18Z"
   },
-  "generatedAt": "2026-07-02T04:10:17Z"
+  "generatedAt": "2026-07-02T04:20:18Z"
 }
