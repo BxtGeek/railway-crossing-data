@@ -3,11 +3,11 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "16552",
-        "trainName": "MGR Chennai Central SF Express",
+        "trainNo": "66550",
+        "trainName": "KSR Bengaluru - Jolarpettai MEMU",
         "status": "scheduled",
-        "scheduledDepartureTime": "08:20",
-        "expectedDepartureTime": "08:20",
+        "scheduledDepartureTime": "09:10",
+        "expectedDepartureTime": "09:10",
         "delayMinutes": 0
       },
       {
@@ -91,6 +91,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "12639",
+        "trainName": "Brindavan Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "12:50",
+        "expectedDepartureTime": "12:50",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "66588",
         "trainName": "Kolar - Bengaluru Cantt. MEMU",
         "status": "scheduled",
@@ -104,14 +112,6 @@
         "status": "scheduled",
         "scheduledDepartureTime": "09:05",
         "expectedDepartureTime": "09:05",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "66550",
-        "trainName": "KSR Bengaluru - Jolarpettai MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "09:10",
-        "expectedDepartureTime": "09:10",
         "delayMinutes": 0
       },
       {
@@ -177,9 +177,25 @@
         "scheduledDepartureTime": "12:10",
         "expectedDepartureTime": "12:10",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "66511",
+        "trainName": "KSR Bengaluru - Marikuppam MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "12:50",
+        "expectedDepartureTime": "12:50",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "16552",
+        "trainName": "MGR Chennai Central SF Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "08:20",
+        "expectedDepartureTime": "08:20",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T03:10:18Z"
+    "fetchedAt": "2026-07-02T03:20:18Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -209,7 +225,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T03:10:18Z"
+    "fetchedAt": "2026-07-02T03:20:18Z"
   },
-  "generatedAt": "2026-07-02T03:10:18Z"
+  "generatedAt": "2026-07-02T03:20:18Z"
 }
