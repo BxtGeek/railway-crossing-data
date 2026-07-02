@@ -163,15 +163,15 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "66546",
-        "trainName": "KSR Bengaluru - Marikuppam MEMU",
+        "trainNo": "66581",
+        "trainName": "KSR Bengaluru - Bangarapet MEMU",
         "status": "scheduled",
-        "scheduledDepartureTime": "07:25",
-        "expectedDepartureTime": "07:25",
+        "scheduledDepartureTime": "12:10",
+        "expectedDepartureTime": "12:10",
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T02:30:16Z"
+    "fetchedAt": "2026-07-02T02:40:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -185,19 +185,19 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "16212",
-        "trainName": "Yesvantpur Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "09:08",
-        "expectedDepartureTime": "09:08",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66596",
         "trainName": "Hosur - Yesvantpur Junction Passenger",
         "status": "scheduled",
         "scheduledDepartureTime": "09:04",
         "expectedDepartureTime": "09:04",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "16212",
+        "trainName": "Yesvantpur Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "09:08",
+        "expectedDepartureTime": "09:08",
         "delayMinutes": 0
       },
       {
@@ -209,7 +209,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T02:30:16Z"
+    "fetchedAt": "2026-07-02T02:40:17Z"
   },
-  "generatedAt": "2026-07-02T02:30:16Z"
+  "generatedAt": "2026-07-02T02:40:17Z"
 }
