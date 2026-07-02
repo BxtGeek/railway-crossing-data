@@ -3,19 +3,11 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "22834",
-        "trainName": "Bhubaneswar Humsafar Express",
+        "trainNo": "66549",
+        "trainName": "Jolarpettai - KSR Bengaluru MEMU",
         "status": "scheduled",
-        "scheduledDepartureTime": "16:55",
-        "expectedDepartureTime": "16:55",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "16315",
-        "trainName": "Thiruvananthapuram North Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "17:00",
-        "expectedDepartureTime": "17:00",
+        "scheduledDepartureTime": "17:35",
+        "expectedDepartureTime": "17:35",
         "delayMinutes": 0
       },
       {
@@ -24,14 +16,6 @@
         "status": "scheduled",
         "scheduledDepartureTime": "",
         "expectedDepartureTime": "",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "66549",
-        "trainName": "Jolarpettai - KSR Bengaluru MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "17:35",
-        "expectedDepartureTime": "17:35",
         "delayMinutes": 0
       },
       {
@@ -137,9 +121,17 @@
         "scheduledDepartureTime": "20:36",
         "expectedDepartureTime": "20:36",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "22834",
+        "trainName": "Bhubaneswar Humsafar Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "16:55",
+        "expectedDepartureTime": "16:55",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T11:30:18Z"
+    "fetchedAt": "2026-07-02T11:40:19Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -169,7 +161,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T11:30:18Z"
+    "fetchedAt": "2026-07-02T11:40:19Z"
   },
-  "generatedAt": "2026-07-02T11:30:18Z"
+  "generatedAt": "2026-07-02T11:40:19Z"
 }
