@@ -3,6 +3,14 @@
     "stationCode": "KJM",
     "trains": [
       {
+        "trainNo": "12863",
+        "trainName": "SMVT Bengaluru SF Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "05:55",
+        "expectedDepartureTime": "05:55",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "16525",
         "trainName": "KSR Bengaluru Express",
         "status": "scheduled",
@@ -56,22 +64,6 @@
         "status": "scheduled",
         "scheduledDepartureTime": "09:29",
         "expectedDepartureTime": "09:29",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "12863",
-        "trainName": "SMVT Bengaluru SF Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "05:55",
-        "expectedDepartureTime": "05:55",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "01006",
-        "trainName": "Tuticorin - CSMT Passenger",
-        "status": "scheduled",
-        "scheduledDepartureTime": "06:05",
-        "expectedDepartureTime": "06:05",
         "delayMinutes": 0
       },
       {
@@ -145,9 +137,17 @@
         "scheduledDepartureTime": "09:15",
         "expectedDepartureTime": "09:15",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "66530",
+        "trainName": "Bangarapet Junction SBC-BWT MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "10:05",
+        "expectedDepartureTime": "10:05",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T00:30:16Z"
+    "fetchedAt": "2026-07-02T00:40:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -193,7 +193,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T00:30:16Z"
+    "fetchedAt": "2026-07-02T00:40:17Z"
   },
-  "generatedAt": "2026-07-02T00:30:16Z"
+  "generatedAt": "2026-07-02T00:40:17Z"
 }
