@@ -3,14 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "66545",
-        "trainName": "Marikuppam - KSR Bengaluru MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "15:15",
-        "expectedDepartureTime": "15:15",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "12296",
         "trainName": "Sanghamitra SF Express",
         "status": "scheduled",
@@ -43,19 +35,19 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "16315",
-        "trainName": "Thiruvananthapuram North Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "17:00",
-        "expectedDepartureTime": "17:00",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66514",
         "trainName": "Krishnarajapuram MEMU",
         "status": "scheduled",
         "scheduledDepartureTime": "",
         "expectedDepartureTime": "",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "16315",
+        "trainName": "Thiruvananthapuram North Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "17:00",
+        "expectedDepartureTime": "17:00",
         "delayMinutes": 0
       },
       {
@@ -147,7 +139,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T10:00:19Z"
+    "fetchedAt": "2026-07-02T10:10:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -201,7 +193,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T10:00:19Z"
+    "fetchedAt": "2026-07-02T10:10:17Z"
   },
-  "generatedAt": "2026-07-02T10:00:19Z"
+  "generatedAt": "2026-07-02T10:10:17Z"
 }
