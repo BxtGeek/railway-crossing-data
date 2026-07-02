@@ -67,6 +67,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "16315",
+        "trainName": "Thiruvananthapuram North Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "17:00",
+        "expectedDepartureTime": "17:00",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "22626",
         "trainName": "MGR Chennai Central Double Decker Express",
         "status": "scheduled",
@@ -97,9 +105,25 @@
         "scheduledDepartureTime": "15:40",
         "expectedDepartureTime": "15:40",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "22834",
+        "trainName": "Bhubaneswar Humsafar Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "16:55",
+        "expectedDepartureTime": "16:55",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "66514",
+        "trainName": "Krishnarajapuram MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "",
+        "expectedDepartureTime": "",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T07:20:17Z"
+    "fetchedAt": "2026-07-02T07:30:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -129,7 +153,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T07:20:17Z"
+    "fetchedAt": "2026-07-02T07:30:17Z"
   },
-  "generatedAt": "2026-07-02T07:20:17Z"
+  "generatedAt": "2026-07-02T07:30:17Z"
 }
