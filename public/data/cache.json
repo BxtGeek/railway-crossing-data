@@ -3,22 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "66519",
-        "trainName": "Marikuppam - KSR Bengaluru MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "05:49",
-        "expectedDepartureTime": "05:49",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "11006",
-        "trainName": "Dadar PDY-DR CHALUKYA EXP",
-        "status": "scheduled",
-        "scheduledDepartureTime": "04:36",
-        "expectedDepartureTime": "04:36",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "16525",
         "trainName": "KSR Bengaluru Express",
         "status": "scheduled",
@@ -163,7 +147,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T00:20:16Z"
+    "fetchedAt": "2026-07-02T00:30:16Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -209,7 +193,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T00:20:16Z"
+    "fetchedAt": "2026-07-02T00:30:16Z"
   },
-  "generatedAt": "2026-07-02T00:20:16Z"
+  "generatedAt": "2026-07-02T00:30:16Z"
 }
