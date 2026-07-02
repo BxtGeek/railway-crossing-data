@@ -3,14 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "16316",
-        "trainName": "Mysuru Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "07:12",
-        "expectedDepartureTime": "07:12",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66546",
         "trainName": "KSR Bengaluru - Marikuppam MEMU",
         "status": "scheduled",
@@ -163,7 +155,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T01:50:17Z"
+    "fetchedAt": "2026-07-02T02:00:16Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -207,9 +199,17 @@
         "scheduledDepartureTime": "09:04",
         "expectedDepartureTime": "09:04",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "66563",
+        "trainName": "Yesvantpur- Hosur MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "11:26",
+        "expectedDepartureTime": "11:26",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T01:50:17Z"
+    "fetchedAt": "2026-07-02T02:00:16Z"
   },
-  "generatedAt": "2026-07-02T01:50:17Z"
+  "generatedAt": "2026-07-02T02:00:16Z"
 }
