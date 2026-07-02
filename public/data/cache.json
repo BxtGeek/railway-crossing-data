@@ -35,6 +35,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "17209",
+        "trainName": "Seshadri Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "11:44",
+        "expectedDepartureTime": "11:44",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "22666",
         "trainName": "KSR Bengaluru Uday Express",
         "status": "scheduled",
@@ -131,14 +139,6 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "17209",
-        "trainName": "Seshadri Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "11:44",
-        "expectedDepartureTime": "11:44",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66544",
         "trainName": "Banaswadi - Kuppam MEMU",
         "status": "scheduled",
@@ -155,27 +155,19 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "66550",
-        "trainName": "KSR Bengaluru - Jolarpettai MEMU",
+        "trainNo": "22626",
+        "trainName": "MGR Chennai Central Double Decker Express",
         "status": "scheduled",
-        "scheduledDepartureTime": "09:10",
-        "expectedDepartureTime": "09:10",
+        "scheduledDepartureTime": "13:54",
+        "expectedDepartureTime": "13:54",
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T04:20:18Z"
+    "fetchedAt": "2026-07-02T04:30:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
     "trains": [
-      {
-        "trainNo": "16212",
-        "trainName": "Yesvantpur Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "09:08",
-        "expectedDepartureTime": "09:08",
-        "delayMinutes": 0
-      },
       {
         "trainNo": "66563",
         "trainName": "Yesvantpur- Hosur MEMU",
@@ -185,7 +177,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T04:20:18Z"
+    "fetchedAt": "2026-07-02T04:30:17Z"
   },
-  "generatedAt": "2026-07-02T04:20:18Z"
+  "generatedAt": "2026-07-02T04:30:17Z"
 }
