@@ -19,6 +19,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "66512",
+        "trainName": "Marikuppam - KSR Bengaluru MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "09:15",
+        "expectedDepartureTime": "09:15",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "66542",
         "trainName": "KSR Bengaluru - Whitefield MEMU",
         "status": "scheduled",
@@ -59,6 +67,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "22625",
+        "trainName": "KSR Bengaluru Double Decker Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "12:15",
+        "expectedDepartureTime": "12:15",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "12510",
         "trainName": "SMVT Bengaluru SF Express",
         "status": "scheduled",
@@ -96,14 +112,6 @@
         "status": "scheduled",
         "scheduledDepartureTime": "09:10",
         "expectedDepartureTime": "09:10",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "66512",
-        "trainName": "Marikuppam - KSR Bengaluru MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "09:15",
-        "expectedDepartureTime": "09:15",
         "delayMinutes": 0
       },
       {
@@ -171,19 +179,11 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T02:40:17Z"
+    "fetchedAt": "2026-07-02T02:50:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
     "trains": [
-      {
-        "trainNo": "16529",
-        "trainName": "Karaikal Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "07:49",
-        "expectedDepartureTime": "07:49",
-        "delayMinutes": 0
-      },
       {
         "trainNo": "66596",
         "trainName": "Hosur - Yesvantpur Junction Passenger",
@@ -207,9 +207,17 @@
         "scheduledDepartureTime": "11:26",
         "expectedDepartureTime": "11:26",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "16529",
+        "trainName": "Karaikal Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "07:49",
+        "expectedDepartureTime": "07:49",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T02:40:17Z"
+    "fetchedAt": "2026-07-02T02:50:17Z"
   },
-  "generatedAt": "2026-07-02T02:40:17Z"
+  "generatedAt": "2026-07-02T02:50:17Z"
 }
