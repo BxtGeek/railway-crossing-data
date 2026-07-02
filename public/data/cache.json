@@ -3,14 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "66543",
-        "trainName": "Kuppam - KSR Bengaluru MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "16:23",
-        "expectedDepartureTime": "16:23",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "16315",
         "trainName": "Thiruvananthapuram North Express",
         "status": "scheduled",
@@ -123,7 +115,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T10:50:17Z"
+    "fetchedAt": "2026-07-02T11:00:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -161,7 +153,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T10:50:17Z"
+    "fetchedAt": "2026-07-02T11:00:17Z"
   },
-  "generatedAt": "2026-07-02T10:50:17Z"
+  "generatedAt": "2026-07-02T11:00:17Z"
 }
