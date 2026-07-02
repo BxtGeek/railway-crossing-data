@@ -3,14 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "17210",
-        "trainName": "Seshadri Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "11:10",
-        "expectedDepartureTime": "11:10",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "17209",
         "trainName": "Seshadri Express",
         "status": "scheduled",
@@ -129,9 +121,17 @@
         "scheduledDepartureTime": "15:15",
         "expectedDepartureTime": "15:15",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "12640",
+        "trainName": "Brindavan Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "15:40",
+        "expectedDepartureTime": "15:40",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T06:00:26Z"
+    "fetchedAt": "2026-07-02T06:10:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -145,7 +145,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T06:00:26Z"
+    "fetchedAt": "2026-07-02T06:10:17Z"
   },
-  "generatedAt": "2026-07-02T06:00:26Z"
+  "generatedAt": "2026-07-02T06:10:17Z"
 }
