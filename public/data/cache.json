@@ -3,11 +3,11 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "66530",
-        "trainName": "Bangarapet Junction SBC-BWT MEMU",
+        "trainNo": "22888",
+        "trainName": "Howrah Humsafar Express",
         "status": "scheduled",
-        "scheduledDepartureTime": "10:05",
-        "expectedDepartureTime": "10:05",
+        "scheduledDepartureTime": "10:30",
+        "expectedDepartureTime": "10:30",
         "delayMinutes": 0
       },
       {
@@ -32,6 +32,14 @@
         "status": "scheduled",
         "scheduledDepartureTime": "11:10",
         "expectedDepartureTime": "11:10",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "66548",
+        "trainName": "Krishnarajapuram MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "",
+        "expectedDepartureTime": "",
         "delayMinutes": 0
       },
       {
@@ -67,19 +75,19 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "12510",
-        "trainName": "SMVT Bengaluru SF Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "09:04",
-        "expectedDepartureTime": "09:04",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "20671",
         "trainName": "Bengaluru Cantt. Vande Bharat Express",
         "status": "scheduled",
         "scheduledDepartureTime": "12:25",
         "expectedDepartureTime": "12:25",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "12510",
+        "trainName": "SMVT Bengaluru SF Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "09:04",
+        "expectedDepartureTime": "09:04",
         "delayMinutes": 0
       },
       {
@@ -107,27 +115,11 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "22888",
-        "trainName": "Howrah Humsafar Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "10:30",
-        "expectedDepartureTime": "10:30",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "12864",
         "trainName": "Howrah SF Express",
         "status": "scheduled",
         "scheduledDepartureTime": "10:55",
         "expectedDepartureTime": "10:55",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "66548",
-        "trainName": "Krishnarajapuram MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "",
-        "expectedDepartureTime": "",
         "delayMinutes": 0
       },
       {
@@ -171,7 +163,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T04:40:17Z"
+    "fetchedAt": "2026-07-02T04:50:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -185,7 +177,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T04:40:17Z"
+    "fetchedAt": "2026-07-02T04:50:17Z"
   },
-  "generatedAt": "2026-07-02T04:40:17Z"
+  "generatedAt": "2026-07-02T04:50:17Z"
 }
