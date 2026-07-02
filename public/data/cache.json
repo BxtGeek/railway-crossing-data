@@ -11,6 +11,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "66511",
+        "trainName": "KSR Bengaluru - Marikuppam MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "12:50",
+        "expectedDepartureTime": "12:50",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "12639",
         "trainName": "Brindavan Express",
         "status": "scheduled",
@@ -59,11 +67,11 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "66511",
-        "trainName": "KSR Bengaluru - Marikuppam MEMU",
+        "trainNo": "66543",
+        "trainName": "Kuppam - KSR Bengaluru MEMU",
         "status": "scheduled",
-        "scheduledDepartureTime": "12:50",
-        "expectedDepartureTime": "12:50",
+        "scheduledDepartureTime": "16:23",
+        "expectedDepartureTime": "16:23",
         "delayMinutes": 0
       },
       {
@@ -99,7 +107,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T06:50:17Z"
+    "fetchedAt": "2026-07-02T07:00:18Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -121,7 +129,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T06:50:17Z"
+    "fetchedAt": "2026-07-02T07:00:18Z"
   },
-  "generatedAt": "2026-07-02T06:50:17Z"
+  "generatedAt": "2026-07-02T07:00:18Z"
 }
