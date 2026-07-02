@@ -11,14 +11,6 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "16561",
-        "trainName": "Thiruvananthapuram North AC Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "16:05",
-        "expectedDepartureTime": "16:05",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "16315",
         "trainName": "Thiruvananthapuram North Express",
         "status": "scheduled",
@@ -131,19 +123,11 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T10:40:18Z"
+    "fetchedAt": "2026-07-02T10:50:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
     "trains": [
-      {
-        "trainNo": "66564",
-        "trainName": "Hosur - Yesvantpur MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "16:01",
-        "expectedDepartureTime": "16:01",
-        "delayMinutes": 0
-      },
       {
         "trainNo": "16211",
         "trainName": "Salem Express",
@@ -177,7 +161,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T10:40:18Z"
+    "fetchedAt": "2026-07-02T10:50:17Z"
   },
-  "generatedAt": "2026-07-02T10:40:18Z"
+  "generatedAt": "2026-07-02T10:50:17Z"
 }
