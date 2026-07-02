@@ -67,6 +67,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "12510",
+        "trainName": "SMVT Bengaluru SF Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "09:04",
+        "expectedDepartureTime": "09:04",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "12863",
         "trainName": "SMVT Bengaluru SF Express",
         "status": "scheduled",
@@ -75,11 +83,11 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "12510",
-        "trainName": "SMVT Bengaluru SF Express",
+        "trainNo": "22833",
+        "trainName": "SMVT Bengaluru Humsafar Express",
         "status": "scheduled",
-        "scheduledDepartureTime": "09:04",
-        "expectedDepartureTime": "09:04",
+        "scheduledDepartureTime": "11:33",
+        "expectedDepartureTime": "11:33",
         "delayMinutes": 0
       },
       {
@@ -155,27 +163,11 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T02:00:16Z"
+    "fetchedAt": "2026-07-02T02:10:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
     "trains": [
-      {
-        "trainNo": "66584",
-        "trainName": "Dharmapuri - KSR Bengaluru MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "07:07",
-        "expectedDepartureTime": "07:07",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "66595",
-        "trainName": "Yesvantpur Junction - Hosur Passenger",
-        "status": "scheduled",
-        "scheduledDepartureTime": "06:50",
-        "expectedDepartureTime": "06:50",
-        "delayMinutes": 0
-      },
       {
         "trainNo": "16529",
         "trainName": "Karaikal Express",
@@ -207,9 +199,17 @@
         "scheduledDepartureTime": "11:26",
         "expectedDepartureTime": "11:26",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "66595",
+        "trainName": "Yesvantpur Junction - Hosur Passenger",
+        "status": "scheduled",
+        "scheduledDepartureTime": "06:50",
+        "expectedDepartureTime": "06:50",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T02:00:16Z"
+    "fetchedAt": "2026-07-02T02:10:17Z"
   },
-  "generatedAt": "2026-07-02T02:00:16Z"
+  "generatedAt": "2026-07-02T02:10:17Z"
 }
