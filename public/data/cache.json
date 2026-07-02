@@ -3,14 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "22888",
-        "trainName": "Howrah Humsafar Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "10:30",
-        "expectedDepartureTime": "10:30",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "12295",
         "trainName": "Sanghamitra SF Express",
         "status": "scheduled",
@@ -161,9 +153,17 @@
         "scheduledDepartureTime": "14:05",
         "expectedDepartureTime": "14:05",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "22665",
+        "trainName": "Coimbatore Uday Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "14:35",
+        "expectedDepartureTime": "14:35",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T05:00:17Z"
+    "fetchedAt": "2026-07-02T05:10:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -177,7 +177,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T05:00:17Z"
+    "fetchedAt": "2026-07-02T05:10:17Z"
   },
-  "generatedAt": "2026-07-02T05:00:17Z"
+  "generatedAt": "2026-07-02T05:10:17Z"
 }
