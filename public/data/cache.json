@@ -11,11 +11,11 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "66512",
-        "trainName": "Marikuppam - KSR Bengaluru MEMU",
+        "trainNo": "66588",
+        "trainName": "Kolar - Bengaluru Cantt. MEMU",
         "status": "scheduled",
-        "scheduledDepartureTime": "09:15",
-        "expectedDepartureTime": "09:15",
+        "scheduledDepartureTime": "08:55",
+        "expectedDepartureTime": "08:55",
         "delayMinutes": 0
       },
       {
@@ -24,6 +24,14 @@
         "status": "scheduled",
         "scheduledDepartureTime": "09:10",
         "expectedDepartureTime": "09:10",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "66512",
+        "trainName": "Marikuppam - KSR Bengaluru MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "09:15",
+        "expectedDepartureTime": "09:15",
         "delayMinutes": 0
       },
       {
@@ -177,9 +185,17 @@
         "scheduledDepartureTime": "12:50",
         "expectedDepartureTime": "12:50",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "66529",
+        "trainName": "Kuppam - KSR Bengaluru MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "08:29",
+        "expectedDepartureTime": "08:29",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T03:30:17Z"
+    "fetchedAt": "2026-07-02T03:40:16Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -209,7 +225,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T03:30:17Z"
+    "fetchedAt": "2026-07-02T03:40:16Z"
   },
-  "generatedAt": "2026-07-02T03:30:17Z"
+  "generatedAt": "2026-07-02T03:40:16Z"
 }
