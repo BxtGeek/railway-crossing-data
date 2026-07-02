@@ -3,14 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "66550",
-        "trainName": "KSR Bengaluru - Jolarpettai MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "09:10",
-        "expectedDepartureTime": "09:10",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66542",
         "trainName": "KSR Bengaluru - Whitefield MEMU",
         "status": "scheduled",
@@ -59,19 +51,19 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "12510",
-        "trainName": "SMVT Bengaluru SF Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "09:04",
-        "expectedDepartureTime": "09:04",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "20671",
         "trainName": "Bengaluru Cantt. Vande Bharat Express",
         "status": "scheduled",
         "scheduledDepartureTime": "12:25",
         "expectedDepartureTime": "12:25",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "12510",
+        "trainName": "SMVT Bengaluru SF Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "09:04",
+        "expectedDepartureTime": "09:04",
         "delayMinutes": 0
       },
       {
@@ -163,15 +155,15 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "12836",
-        "trainName": "Hatia SF Express",
+        "trainNo": "66588",
+        "trainName": "Kolar - Bengaluru Cantt. MEMU",
         "status": "scheduled",
-        "scheduledDepartureTime": "09:05",
-        "expectedDepartureTime": "09:05",
+        "scheduledDepartureTime": "08:55",
+        "expectedDepartureTime": "08:55",
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T03:50:16Z"
+    "fetchedAt": "2026-07-02T04:00:18Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -201,7 +193,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T03:50:16Z"
+    "fetchedAt": "2026-07-02T04:00:18Z"
   },
-  "generatedAt": "2026-07-02T03:50:16Z"
+  "generatedAt": "2026-07-02T04:00:18Z"
 }
