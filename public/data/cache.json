@@ -161,9 +161,17 @@
         "scheduledDepartureTime": "13:54",
         "expectedDepartureTime": "13:54",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "16223",
+        "trainName": "SMVT Bengaluru - Radhikapur Passenger",
+        "status": "scheduled",
+        "scheduledDepartureTime": "14:05",
+        "expectedDepartureTime": "14:05",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T04:30:17Z"
+    "fetchedAt": "2026-07-02T04:40:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -177,7 +185,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T04:30:17Z"
+    "fetchedAt": "2026-07-02T04:40:17Z"
   },
-  "generatedAt": "2026-07-02T04:30:17Z"
+  "generatedAt": "2026-07-02T04:40:17Z"
 }
