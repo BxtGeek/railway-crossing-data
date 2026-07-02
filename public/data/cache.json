@@ -67,14 +67,6 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "12510",
-        "trainName": "SMVT Bengaluru SF Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "09:04",
-        "expectedDepartureTime": "09:04",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "12863",
         "trainName": "SMVT Bengaluru SF Express",
         "status": "scheduled",
@@ -88,6 +80,14 @@
         "status": "scheduled",
         "scheduledDepartureTime": "06:05",
         "expectedDepartureTime": "06:05",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "12510",
+        "trainName": "SMVT Bengaluru SF Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "09:04",
+        "expectedDepartureTime": "09:04",
         "delayMinutes": 0
       },
       {
@@ -153,9 +153,17 @@
         "scheduledDepartureTime": "09:15",
         "expectedDepartureTime": "09:15",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "12295",
+        "trainName": "Sanghamitra SF Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "09:29",
+        "expectedDepartureTime": "09:29",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T23:50:16Z"
+    "fetchedAt": "2026-07-02T00:00:18Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -201,7 +209,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-01T23:50:16Z"
+    "fetchedAt": "2026-07-02T00:00:18Z"
   },
-  "generatedAt": "2026-07-01T23:50:16Z"
+  "generatedAt": "2026-07-02T00:00:18Z"
 }
