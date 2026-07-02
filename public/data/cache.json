@@ -3,14 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "12639",
-        "trainName": "Brindavan Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "12:50",
-        "expectedDepartureTime": "12:50",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "22833",
         "trainName": "SMVT Bengaluru Humsafar Express",
         "status": "scheduled",
@@ -115,15 +107,15 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "66511",
-        "trainName": "KSR Bengaluru - Marikuppam MEMU",
+        "trainNo": "12639",
+        "trainName": "Brindavan Express",
         "status": "scheduled",
         "scheduledDepartureTime": "12:50",
         "expectedDepartureTime": "12:50",
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T07:50:17Z"
+    "fetchedAt": "2026-07-02T08:00:20Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -153,7 +145,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T07:50:17Z"
+    "fetchedAt": "2026-07-02T08:00:20Z"
   },
-  "generatedAt": "2026-07-02T07:50:17Z"
+  "generatedAt": "2026-07-02T08:00:20Z"
 }
