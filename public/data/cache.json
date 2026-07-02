@@ -3,14 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "12296",
-        "trainName": "Sanghamitra SF Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "15:00",
-        "expectedDepartureTime": "15:00",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66543",
         "trainName": "Kuppam - KSR Bengaluru MEMU",
         "status": "scheduled",
@@ -83,6 +75,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "16522",
+        "trainName": "Bangarapet MEMU Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "20:07",
+        "expectedDepartureTime": "20:07",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "22834",
         "trainName": "Bhubaneswar Humsafar Express",
         "status": "scheduled",
@@ -129,17 +129,9 @@
         "scheduledDepartureTime": "19:20",
         "expectedDepartureTime": "19:20",
         "delayMinutes": 0
-      },
-      {
-        "trainNo": "12640",
-        "trainName": "Brindavan Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "15:40",
-        "expectedDepartureTime": "15:40",
-        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T10:30:18Z"
+    "fetchedAt": "2026-07-02T10:40:18Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -185,7 +177,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T10:30:18Z"
+    "fetchedAt": "2026-07-02T10:40:18Z"
   },
-  "generatedAt": "2026-07-02T10:30:18Z"
+  "generatedAt": "2026-07-02T10:40:18Z"
 }
