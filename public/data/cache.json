@@ -3,19 +3,19 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "22833",
-        "trainName": "SMVT Bengaluru Humsafar Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "11:33",
-        "expectedDepartureTime": "11:33",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "12639",
         "trainName": "Brindavan Express",
         "status": "scheduled",
         "scheduledDepartureTime": "12:50",
         "expectedDepartureTime": "12:50",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "22833",
+        "trainName": "SMVT Bengaluru Humsafar Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "11:33",
+        "expectedDepartureTime": "11:33",
         "delayMinutes": 0
       },
       {
@@ -123,7 +123,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T07:40:18Z"
+    "fetchedAt": "2026-07-02T07:50:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -153,7 +153,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T07:40:18Z"
+    "fetchedAt": "2026-07-02T07:50:17Z"
   },
-  "generatedAt": "2026-07-02T07:40:18Z"
+  "generatedAt": "2026-07-02T07:50:17Z"
 }
