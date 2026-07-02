@@ -3,22 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "66581",
-        "trainName": "KSR Bengaluru - Bangarapet MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "12:10",
-        "expectedDepartureTime": "12:10",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "22625",
-        "trainName": "KSR Bengaluru Double Decker Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "12:15",
-        "expectedDepartureTime": "12:15",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "20671",
         "trainName": "Bengaluru Cantt. Vande Bharat Express",
         "status": "scheduled",
@@ -113,17 +97,9 @@
         "scheduledDepartureTime": "15:40",
         "expectedDepartureTime": "15:40",
         "delayMinutes": 0
-      },
-      {
-        "trainNo": "17209",
-        "trainName": "Seshadri Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "11:44",
-        "expectedDepartureTime": "11:44",
-        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T06:40:16Z"
+    "fetchedAt": "2026-07-02T06:50:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -145,7 +121,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T06:40:16Z"
+    "fetchedAt": "2026-07-02T06:50:17Z"
   },
-  "generatedAt": "2026-07-02T06:40:16Z"
+  "generatedAt": "2026-07-02T06:50:17Z"
 }
