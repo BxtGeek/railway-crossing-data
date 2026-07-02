@@ -11,11 +11,11 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "66541",
-        "trainName": "Whitefield - KSR Bengaluru MEMU",
+        "trainNo": "12864",
+        "trainName": "Howrah SF Express",
         "status": "scheduled",
-        "scheduledDepartureTime": "10:44",
-        "expectedDepartureTime": "10:44",
+        "scheduledDepartureTime": "10:55",
+        "expectedDepartureTime": "10:55",
         "delayMinutes": 0
       },
       {
@@ -107,14 +107,6 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "12864",
-        "trainName": "Howrah SF Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "10:55",
-        "expectedDepartureTime": "10:55",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66547",
         "trainName": "Marikuppam MEMU",
         "status": "scheduled",
@@ -163,7 +155,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T05:10:17Z"
+    "fetchedAt": "2026-07-02T05:20:16Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -177,7 +169,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T05:10:17Z"
+    "fetchedAt": "2026-07-02T05:20:16Z"
   },
-  "generatedAt": "2026-07-02T05:10:17Z"
+  "generatedAt": "2026-07-02T05:20:16Z"
 }
