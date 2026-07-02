@@ -3,19 +3,27 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "12296",
-        "trainName": "Sanghamitra SF Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "15:00",
-        "expectedDepartureTime": "15:00",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66545",
         "trainName": "Marikuppam - KSR Bengaluru MEMU",
         "status": "scheduled",
         "scheduledDepartureTime": "15:15",
         "expectedDepartureTime": "15:15",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "12640",
+        "trainName": "Brindavan Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "15:40",
+        "expectedDepartureTime": "15:40",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "12296",
+        "trainName": "Sanghamitra SF Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "15:00",
+        "expectedDepartureTime": "15:00",
         "delayMinutes": 0
       },
       {
@@ -83,14 +91,6 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "12640",
-        "trainName": "Brindavan Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "15:40",
-        "expectedDepartureTime": "15:40",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "22834",
         "trainName": "Bhubaneswar Humsafar Express",
         "status": "scheduled",
@@ -129,13 +129,37 @@
         "scheduledDepartureTime": "",
         "expectedDepartureTime": "",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "12684",
+        "trainName": "Ernakulam Jn. SF Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "19:15",
+        "expectedDepartureTime": "19:15",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "66534",
+        "trainName": "Kuppam MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "19:20",
+        "expectedDepartureTime": "19:20",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T09:40:19Z"
+    "fetchedAt": "2026-07-02T09:50:18Z"
   },
   "blrr": {
     "stationCode": "BLRR",
     "trains": [
+      {
+        "trainNo": "66585",
+        "trainName": "Yesvantpur- Hosur MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "15:43",
+        "expectedDepartureTime": "15:43",
+        "delayMinutes": 0
+      },
       {
         "trainNo": "66564",
         "trainName": "Hosur - Yesvantpur MEMU",
@@ -175,17 +199,9 @@
         "scheduledDepartureTime": "19:00",
         "expectedDepartureTime": "19:00",
         "delayMinutes": 0
-      },
-      {
-        "trainNo": "66585",
-        "trainName": "Yesvantpur- Hosur MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "15:43",
-        "expectedDepartureTime": "15:43",
-        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T09:40:19Z"
+    "fetchedAt": "2026-07-02T09:50:18Z"
   },
-  "generatedAt": "2026-07-02T09:40:19Z"
+  "generatedAt": "2026-07-02T09:50:18Z"
 }
