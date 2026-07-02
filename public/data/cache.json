@@ -59,6 +59,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "16520",
+        "trainName": "Jolarpettai MEMU Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "17:55",
+        "expectedDepartureTime": "17:55",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "22665",
         "trainName": "Coimbatore Uday Express",
         "status": "scheduled",
@@ -107,7 +115,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T08:20:18Z"
+    "fetchedAt": "2026-07-02T08:30:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -137,7 +145,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T08:20:18Z"
+    "fetchedAt": "2026-07-02T08:30:17Z"
   },
-  "generatedAt": "2026-07-02T08:20:18Z"
+  "generatedAt": "2026-07-02T08:30:17Z"
 }
