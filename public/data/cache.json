@@ -3,6 +3,14 @@
     "stationCode": "KJM",
     "trains": [
       {
+        "trainNo": "16223",
+        "trainName": "SMVT Bengaluru - Radhikapur Passenger",
+        "status": "scheduled",
+        "scheduledDepartureTime": "14:05",
+        "expectedDepartureTime": "14:05",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "22665",
         "trainName": "Coimbatore Uday Express",
         "status": "scheduled",
@@ -113,17 +121,9 @@
         "scheduledDepartureTime": "17:35",
         "expectedDepartureTime": "17:35",
         "delayMinutes": 0
-      },
-      {
-        "trainNo": "22626",
-        "trainName": "MGR Chennai Central Double Decker Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "13:54",
-        "expectedDepartureTime": "13:54",
-        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T08:50:18Z"
+    "fetchedAt": "2026-07-02T09:00:19Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -161,7 +161,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T08:50:18Z"
+    "fetchedAt": "2026-07-02T09:00:19Z"
   },
-  "generatedAt": "2026-07-02T08:50:18Z"
+  "generatedAt": "2026-07-02T09:00:19Z"
 }
