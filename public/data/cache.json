@@ -91,14 +91,6 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "66547",
-        "trainName": "Marikuppam MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "11:10",
-        "expectedDepartureTime": "11:10",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66544",
         "trainName": "Banaswadi - Kuppam MEMU",
         "status": "scheduled",
@@ -139,6 +131,22 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "66545",
+        "trainName": "Marikuppam - KSR Bengaluru MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "15:15",
+        "expectedDepartureTime": "15:15",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "12295",
+        "trainName": "Sanghamitra SF Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "09:29",
+        "expectedDepartureTime": "09:29",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "12864",
         "trainName": "Howrah SF Express",
         "status": "scheduled",
@@ -147,7 +155,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T05:40:17Z"
+    "fetchedAt": "2026-07-02T05:50:16Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -161,7 +169,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T05:40:17Z"
+    "fetchedAt": "2026-07-02T05:50:16Z"
   },
-  "generatedAt": "2026-07-02T05:40:17Z"
+  "generatedAt": "2026-07-02T05:50:16Z"
 }
