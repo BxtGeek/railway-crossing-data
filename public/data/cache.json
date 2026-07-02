@@ -3,19 +3,19 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "66545",
-        "trainName": "Marikuppam - KSR Bengaluru MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "15:15",
-        "expectedDepartureTime": "15:15",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "12296",
         "trainName": "Sanghamitra SF Express",
         "status": "scheduled",
         "scheduledDepartureTime": "15:00",
         "expectedDepartureTime": "15:00",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "66545",
+        "trainName": "Marikuppam - KSR Bengaluru MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "15:15",
+        "expectedDepartureTime": "15:15",
         "delayMinutes": 0
       },
       {
@@ -43,6 +43,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "66549",
+        "trainName": "Jolarpettai - KSR Bengaluru MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "17:35",
+        "expectedDepartureTime": "17:35",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "16520",
         "trainName": "Jolarpettai MEMU Express",
         "status": "scheduled",
@@ -64,6 +72,14 @@
         "status": "scheduled",
         "scheduledDepartureTime": "18:22",
         "expectedDepartureTime": "18:22",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "16551",
+        "trainName": "Ashokapuram SF Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "19:06",
+        "expectedDepartureTime": "19:06",
         "delayMinutes": 0
       },
       {
@@ -91,14 +107,6 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "66549",
-        "trainName": "Jolarpettai - KSR Bengaluru MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "17:35",
-        "expectedDepartureTime": "17:35",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66515",
         "trainName": "Marikuppam MEMU",
         "status": "scheduled",
@@ -113,9 +121,17 @@
         "scheduledDepartureTime": "18:40",
         "expectedDepartureTime": "18:40",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "66533",
+        "trainName": "Krishnarajapuram MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "",
+        "expectedDepartureTime": "",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T09:30:18Z"
+    "fetchedAt": "2026-07-02T09:40:19Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -169,7 +185,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T09:30:18Z"
+    "fetchedAt": "2026-07-02T09:40:19Z"
   },
-  "generatedAt": "2026-07-02T09:30:18Z"
+  "generatedAt": "2026-07-02T09:40:19Z"
 }
