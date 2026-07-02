@@ -67,6 +67,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "16561",
+        "trainName": "Thiruvananthapuram North AC Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "16:05",
+        "expectedDepartureTime": "16:05",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "66511",
         "trainName": "KSR Bengaluru - Marikuppam MEMU",
         "status": "scheduled",
@@ -115,7 +123,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T06:30:17Z"
+    "fetchedAt": "2026-07-02T06:40:16Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -137,7 +145,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T06:30:17Z"
+    "fetchedAt": "2026-07-02T06:40:16Z"
   },
-  "generatedAt": "2026-07-02T06:30:17Z"
+  "generatedAt": "2026-07-02T06:40:16Z"
 }
