@@ -3,14 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "26651",
-        "trainName": "Ernakulam Jn. Vande Bharat Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "05:30",
-        "expectedDepartureTime": "05:30",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "11006",
         "trainName": "Dadar PDY-DR CHALUKYA EXP",
         "status": "scheduled",
@@ -161,9 +153,17 @@
         "scheduledDepartureTime": "09:29",
         "expectedDepartureTime": "09:29",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "26651",
+        "trainName": "Ernakulam Jn. Vande Bharat Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "05:30",
+        "expectedDepartureTime": "05:30",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T00:00:18Z"
+    "fetchedAt": "2026-07-02T00:10:16Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -209,7 +209,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T00:00:18Z"
+    "fetchedAt": "2026-07-02T00:10:16Z"
   },
-  "generatedAt": "2026-07-02T00:00:18Z"
+  "generatedAt": "2026-07-02T00:10:16Z"
 }
