@@ -11,14 +11,6 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "66548",
-        "trainName": "Krishnarajapuram MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "",
-        "expectedDepartureTime": "",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "17209",
         "trainName": "Seshadri Express",
         "status": "scheduled",
@@ -137,25 +129,9 @@
         "scheduledDepartureTime": "15:15",
         "expectedDepartureTime": "15:15",
         "delayMinutes": 0
-      },
-      {
-        "trainNo": "12295",
-        "trainName": "Sanghamitra SF Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "09:29",
-        "expectedDepartureTime": "09:29",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "12864",
-        "trainName": "Howrah SF Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "10:55",
-        "expectedDepartureTime": "10:55",
-        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T05:50:16Z"
+    "fetchedAt": "2026-07-02T06:00:26Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -169,7 +145,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T05:50:16Z"
+    "fetchedAt": "2026-07-02T06:00:26Z"
   },
-  "generatedAt": "2026-07-02T05:50:16Z"
+  "generatedAt": "2026-07-02T06:00:26Z"
 }
