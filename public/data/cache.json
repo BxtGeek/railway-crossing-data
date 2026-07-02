@@ -3,6 +3,14 @@
     "stationCode": "KJM",
     "trains": [
       {
+        "trainNo": "22834",
+        "trainName": "Bhubaneswar Humsafar Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "16:55",
+        "expectedDepartureTime": "16:55",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "16315",
         "trainName": "Thiruvananthapuram North Express",
         "status": "scheduled",
@@ -67,14 +75,6 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "22834",
-        "trainName": "Bhubaneswar Humsafar Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "16:55",
-        "expectedDepartureTime": "16:55",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66515",
         "trainName": "Marikuppam MEMU",
         "status": "scheduled",
@@ -113,9 +113,17 @@
         "scheduledDepartureTime": "19:20",
         "expectedDepartureTime": "19:20",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "16526",
+        "trainName": "Kanniyakumari Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "20:36",
+        "expectedDepartureTime": "20:36",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T11:00:17Z"
+    "fetchedAt": "2026-07-02T11:10:18Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -153,7 +161,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T11:00:17Z"
+    "fetchedAt": "2026-07-02T11:10:18Z"
   },
-  "generatedAt": "2026-07-02T11:00:17Z"
+  "generatedAt": "2026-07-02T11:10:18Z"
 }
