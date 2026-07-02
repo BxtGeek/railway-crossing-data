@@ -3,14 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "20671",
-        "trainName": "Bengaluru Cantt. Vande Bharat Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "12:25",
-        "expectedDepartureTime": "12:25",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66511",
         "trainName": "KSR Bengaluru - Marikuppam MEMU",
         "status": "scheduled",
@@ -107,7 +99,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T07:00:18Z"
+    "fetchedAt": "2026-07-02T07:10:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -121,6 +113,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "16211",
+        "trainName": "Salem Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "16:36",
+        "expectedDepartureTime": "16:36",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "66585",
         "trainName": "Yesvantpur- Hosur MEMU",
         "status": "scheduled",
@@ -129,7 +129,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T07:00:18Z"
+    "fetchedAt": "2026-07-02T07:10:17Z"
   },
-  "generatedAt": "2026-07-02T07:00:18Z"
+  "generatedAt": "2026-07-02T07:10:17Z"
 }
