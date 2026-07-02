@@ -3,6 +3,14 @@
     "stationCode": "KJM",
     "trains": [
       {
+        "trainNo": "66555",
+        "trainName": "Marikuppam - KSR Bengaluru MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "07:51",
+        "expectedDepartureTime": "07:51",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "66529",
         "trainName": "Kuppam - KSR Bengaluru MEMU",
         "status": "scheduled",
@@ -80,6 +88,14 @@
         "status": "scheduled",
         "scheduledDepartureTime": "09:04",
         "expectedDepartureTime": "09:04",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "20671",
+        "trainName": "Bengaluru Cantt. Vande Bharat Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "12:25",
+        "expectedDepartureTime": "12:25",
         "delayMinutes": 0
       },
       {
@@ -179,7 +195,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T02:50:17Z"
+    "fetchedAt": "2026-07-02T03:00:16Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -207,17 +223,9 @@
         "scheduledDepartureTime": "11:26",
         "expectedDepartureTime": "11:26",
         "delayMinutes": 0
-      },
-      {
-        "trainNo": "16529",
-        "trainName": "Karaikal Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "07:49",
-        "expectedDepartureTime": "07:49",
-        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T02:50:17Z"
+    "fetchedAt": "2026-07-02T03:00:16Z"
   },
-  "generatedAt": "2026-07-02T02:50:17Z"
+  "generatedAt": "2026-07-02T03:00:16Z"
 }
