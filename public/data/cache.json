@@ -3,14 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "66546",
-        "trainName": "KSR Bengaluru - Marikuppam MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "07:25",
-        "expectedDepartureTime": "07:25",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66555",
         "trainName": "Marikuppam - KSR Bengaluru MEMU",
         "status": "scheduled",
@@ -67,19 +59,27 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "12510",
-        "trainName": "SMVT Bengaluru SF Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "09:04",
-        "expectedDepartureTime": "09:04",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "12863",
         "trainName": "SMVT Bengaluru SF Express",
         "status": "scheduled",
         "scheduledDepartureTime": "05:55",
         "expectedDepartureTime": "05:55",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "22666",
+        "trainName": "KSR Bengaluru Uday Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "11:45",
+        "expectedDepartureTime": "11:45",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "12510",
+        "trainName": "SMVT Bengaluru SF Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "09:04",
+        "expectedDepartureTime": "09:04",
         "delayMinutes": 0
       },
       {
@@ -161,9 +161,33 @@
         "scheduledDepartureTime": "11:10",
         "expectedDepartureTime": "11:10",
         "delayMinutes": 0
+      },
+      {
+        "trainNo": "17209",
+        "trainName": "Seshadri Express",
+        "status": "scheduled",
+        "scheduledDepartureTime": "11:44",
+        "expectedDepartureTime": "11:44",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "66544",
+        "trainName": "Banaswadi - Kuppam MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "11:51",
+        "expectedDepartureTime": "11:51",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "66546",
+        "trainName": "KSR Bengaluru - Marikuppam MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "07:25",
+        "expectedDepartureTime": "07:25",
+        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T02:10:17Z"
+    "fetchedAt": "2026-07-02T02:20:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -199,17 +223,9 @@
         "scheduledDepartureTime": "11:26",
         "expectedDepartureTime": "11:26",
         "delayMinutes": 0
-      },
-      {
-        "trainNo": "66595",
-        "trainName": "Yesvantpur Junction - Hosur Passenger",
-        "status": "scheduled",
-        "scheduledDepartureTime": "06:50",
-        "expectedDepartureTime": "06:50",
-        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T02:10:17Z"
+    "fetchedAt": "2026-07-02T02:20:17Z"
   },
-  "generatedAt": "2026-07-02T02:10:17Z"
+  "generatedAt": "2026-07-02T02:20:17Z"
 }
