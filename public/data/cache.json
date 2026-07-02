@@ -3,22 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "66555",
-        "trainName": "Marikuppam - KSR Bengaluru MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "07:51",
-        "expectedDepartureTime": "07:51",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "66529",
-        "trainName": "Kuppam - KSR Bengaluru MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "08:29",
-        "expectedDepartureTime": "08:29",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "16552",
         "trainName": "MGR Chennai Central SF Express",
         "status": "scheduled",
@@ -195,7 +179,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T03:00:16Z"
+    "fetchedAt": "2026-07-02T03:10:18Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -225,7 +209,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T03:00:16Z"
+    "fetchedAt": "2026-07-02T03:10:18Z"
   },
-  "generatedAt": "2026-07-02T03:00:16Z"
+  "generatedAt": "2026-07-02T03:10:18Z"
 }
