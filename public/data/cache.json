@@ -3,35 +3,11 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "12836",
-        "trainName": "Hatia SF Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "09:05",
-        "expectedDepartureTime": "09:05",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "66588",
-        "trainName": "Kolar - Bengaluru Cantt. MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "08:55",
-        "expectedDepartureTime": "08:55",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "66550",
         "trainName": "KSR Bengaluru - Jolarpettai MEMU",
         "status": "scheduled",
         "scheduledDepartureTime": "09:10",
         "expectedDepartureTime": "09:10",
-        "delayMinutes": 0
-      },
-      {
-        "trainNo": "66512",
-        "trainName": "Marikuppam - KSR Bengaluru MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "09:15",
-        "expectedDepartureTime": "09:15",
         "delayMinutes": 0
       },
       {
@@ -187,15 +163,15 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "66529",
-        "trainName": "Kuppam - KSR Bengaluru MEMU",
+        "trainNo": "12836",
+        "trainName": "Hatia SF Express",
         "status": "scheduled",
-        "scheduledDepartureTime": "08:29",
-        "expectedDepartureTime": "08:29",
+        "scheduledDepartureTime": "09:05",
+        "expectedDepartureTime": "09:05",
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T03:40:16Z"
+    "fetchedAt": "2026-07-02T03:50:16Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -225,7 +201,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T03:40:16Z"
+    "fetchedAt": "2026-07-02T03:50:16Z"
   },
-  "generatedAt": "2026-07-02T03:40:16Z"
+  "generatedAt": "2026-07-02T03:50:16Z"
 }
