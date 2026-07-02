@@ -11,14 +11,6 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "66514",
-        "trainName": "Krishnarajapuram MEMU",
-        "status": "scheduled",
-        "scheduledDepartureTime": "",
-        "expectedDepartureTime": "",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "16520",
         "trainName": "Jolarpettai MEMU Express",
         "status": "scheduled",
@@ -75,6 +67,14 @@
         "delayMinutes": 0
       },
       {
+        "trainNo": "66520",
+        "trainName": "KSR Bengaluru - Marikuppam MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "21:15",
+        "expectedDepartureTime": "21:15",
+        "delayMinutes": 0
+      },
+      {
         "trainNo": "66515",
         "trainName": "Marikuppam MEMU",
         "status": "scheduled",
@@ -121,17 +121,9 @@
         "scheduledDepartureTime": "20:36",
         "expectedDepartureTime": "20:36",
         "delayMinutes": 0
-      },
-      {
-        "trainNo": "22834",
-        "trainName": "Bhubaneswar Humsafar Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "16:55",
-        "expectedDepartureTime": "16:55",
-        "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T11:40:19Z"
+    "fetchedAt": "2026-07-02T11:50:18Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -161,7 +153,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T11:40:19Z"
+    "fetchedAt": "2026-07-02T11:50:18Z"
   },
-  "generatedAt": "2026-07-02T11:40:19Z"
+  "generatedAt": "2026-07-02T11:50:18Z"
 }
