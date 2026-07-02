@@ -3,14 +3,6 @@
     "stationCode": "KJM",
     "trains": [
       {
-        "trainNo": "12296",
-        "trainName": "Sanghamitra SF Express",
-        "status": "scheduled",
-        "scheduledDepartureTime": "15:00",
-        "expectedDepartureTime": "15:00",
-        "delayMinutes": 0
-      },
-      {
         "trainNo": "12640",
         "trainName": "Brindavan Express",
         "status": "scheduled",
@@ -19,11 +11,11 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "16561",
-        "trainName": "Thiruvananthapuram North AC Express",
+        "trainNo": "12296",
+        "trainName": "Sanghamitra SF Express",
         "status": "scheduled",
-        "scheduledDepartureTime": "16:05",
-        "expectedDepartureTime": "16:05",
+        "scheduledDepartureTime": "15:00",
+        "expectedDepartureTime": "15:00",
         "delayMinutes": 0
       },
       {
@@ -35,11 +27,11 @@
         "delayMinutes": 0
       },
       {
-        "trainNo": "66514",
-        "trainName": "Krishnarajapuram MEMU",
+        "trainNo": "16561",
+        "trainName": "Thiruvananthapuram North AC Express",
         "status": "scheduled",
-        "scheduledDepartureTime": "",
-        "expectedDepartureTime": "",
+        "scheduledDepartureTime": "16:05",
+        "expectedDepartureTime": "16:05",
         "delayMinutes": 0
       },
       {
@@ -48,6 +40,14 @@
         "status": "scheduled",
         "scheduledDepartureTime": "17:00",
         "expectedDepartureTime": "17:00",
+        "delayMinutes": 0
+      },
+      {
+        "trainNo": "66514",
+        "trainName": "Krishnarajapuram MEMU",
+        "status": "scheduled",
+        "scheduledDepartureTime": "",
+        "expectedDepartureTime": "",
         "delayMinutes": 0
       },
       {
@@ -139,7 +139,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T10:10:17Z"
+    "fetchedAt": "2026-07-02T10:20:17Z"
   },
   "blrr": {
     "stationCode": "BLRR",
@@ -193,7 +193,7 @@
         "delayMinutes": 0
       }
     ],
-    "fetchedAt": "2026-07-02T10:10:17Z"
+    "fetchedAt": "2026-07-02T10:20:17Z"
   },
-  "generatedAt": "2026-07-02T10:10:17Z"
+  "generatedAt": "2026-07-02T10:20:17Z"
 }
